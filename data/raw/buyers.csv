@@ -1,0 +1,39 @@
+buyer_id,buyer_name,government_level,government_name,state_code,department,district,region_factor,categories
+B-026,"e-Governance Procurement Cell, Sambalpur",State Government,Government of Odisha,OD,"IT, BT & e-Governance",Sambalpur,0.8844,laptops_it|security_services
+B-020,"Zilla Panchayat Engineering Wing, Thrissur",State Government,Government of Kerala,KL,Rural Development & Panchayat Raj,Thrissur,1.0806,road_resurfacing|solar_streetlight|borewell_drilling
+B-036,"Water Supply Sub-Division, Chennai",Union Government,Government of India,IN,Water Resources Department,Chennai,1.0277,water_pipeline|borewell_drilling
+B-033,"Transport Commissionerate Stores, Koraput",State Government,Government of Odisha,OD,Transport Department,Koraput,0.9635,ambulance_vehicle|security_services|building_construction
+B-016,"Transport Commissionerate Stores, Kota",State Government,Government of Rajasthan,RJ,Transport Department,Kota,0.9125,ambulance_vehicle|security_services|building_construction
+B-037,"Zilla Panchayat Engineering Wing, New Delhi",Union Government,Government of India,IN,Rural Development & Panchayat Raj,New Delhi,1.0024,road_resurfacing|solar_streetlight|borewell_drilling
+B-001,"Water Supply Sub-Division, Belagavi",State Government,Government of Karnataka,KA,Water Resources Department,Belagavi,1.0382,water_pipeline|borewell_drilling
+B-021,"Zilla Panchayat Engineering Wing, Palakkad",State Government,Government of Kerala,KL,Rural Development & Panchayat Raj,Palakkad,1.0603,road_resurfacing|solar_streetlight|borewell_drilling
+B-002,"City Municipal Corporation, Kalaburagi",State Government,Government of Karnataka,KA,Urban Development Department,Kalaburagi,1.0282,sanitation_services|solar_streetlight|road_resurfacing
+B-003,"City Municipal Corporation, Tumakuru",State Government,Government of Karnataka,KA,Urban Development Department,Tumakuru,1.0441,sanitation_services|solar_streetlight|road_resurfacing
+B-012,"District Health Society, Amravati",State Government,Government of Maharashtra,MH,Health & Family Welfare,Amravati,1.0674,drugs_generic|medical_supplies|biomedical_service|ambulance_vehicle
+B-029,"Water Supply Sub-Division, Sambalpur",State Government,Government of Odisha,OD,Water Resources Department,Sambalpur,0.8916,water_pipeline|borewell_drilling
+B-013,"City Municipal Corporation, Nashik",State Government,Government of Maharashtra,MH,Urban Development Department,Nashik,1.0918,sanitation_services|solar_streetlight|road_resurfacing
+B-007,"Zilla Panchayat Engineering Wing, Tumakuru",State Government,Government of Karnataka,KA,Rural Development & Panchayat Raj,Tumakuru,1.0295,road_resurfacing|solar_streetlight|borewell_drilling
+B-038,"District Health Society, Guwahati",Union Government,Government of India,IN,Health & Family Welfare,Guwahati,1.0117,drugs_generic|medical_supplies|biomedical_service|ambulance_vehicle
+B-025,"District Health Society, Kollam",State Government,Government of Kerala,KL,Health & Family Welfare,Kollam,1.0693,drugs_generic|medical_supplies|biomedical_service|ambulance_vehicle
+B-019,"City Municipal Corporation, Bikaner",State Government,Government of Rajasthan,RJ,Urban Development Department,Bikaner,0.9548,sanitation_services|solar_streetlight|road_resurfacing
+B-010,"Water Supply Sub-Division, Amravati",State Government,Government of Maharashtra,MH,Water Resources Department,Amravati,1.0771,water_pipeline|borewell_drilling
+B-032,"Transport Commissionerate Stores, Ganjam",State Government,Government of Odisha,OD,Transport Department,Ganjam,0.9396,ambulance_vehicle|security_services|building_construction
+B-028,"City Municipal Corporation, Koraput",State Government,Government of Odisha,OD,Urban Development Department,Koraput,0.9586,sanitation_services|solar_streetlight|road_resurfacing
+B-008,"Zilla Panchayat Engineering Wing, Nagpur",State Government,Government of Maharashtra,MH,Rural Development & Panchayat Raj,Nagpur,1.0881,road_resurfacing|solar_streetlight|borewell_drilling
+B-014,"District Roads Division, Kota",State Government,Government of Rajasthan,RJ,Public Works Department,Kota,0.9204,road_resurfacing|building_construction|borewell_drilling
+B-023,"e-Governance Procurement Cell, Thrissur",State Government,Government of Kerala,KL,"IT, BT & e-Governance",Thrissur,1.0213,laptops_it|security_services
+B-006,"Zilla Panchayat Engineering Wing, Dakshina Kannada",State Government,Government of Karnataka,KA,Rural Development & Panchayat Raj,Dakshina Kannada,0.9736,road_resurfacing|solar_streetlight|borewell_drilling
+B-030,"Zilla Panchayat Engineering Wing, Balasore",State Government,Government of Odisha,OD,Rural Development & Panchayat Raj,Balasore,0.8879,road_resurfacing|solar_streetlight|borewell_drilling
+B-017,"e-Governance Procurement Cell, Bikaner",State Government,Government of Rajasthan,RJ,"IT, BT & e-Governance",Bikaner,0.9836,laptops_it|security_services
+B-035,"Water Supply Sub-Division, New Delhi",Union Government,Government of India,IN,Water Resources Department,New Delhi,1.0708,water_pipeline|borewell_drilling
+B-004,"Transport Commissionerate Stores, Belagavi",State Government,Government of Karnataka,KA,Transport Department,Belagavi,1.0329,ambulance_vehicle|security_services|building_construction
+B-015,"District Roads Division, Alwar",State Government,Government of Rajasthan,RJ,Public Works Department,Alwar,0.9497,road_resurfacing|building_construction|borewell_drilling
+B-022,"Transport Commissionerate Stores, Thrissur",State Government,Government of Kerala,KL,Transport Department,Thrissur,1.0972,ambulance_vehicle|security_services|building_construction
+B-005,"e-Governance Procurement Cell, Mysuru",State Government,Government of Karnataka,KA,"IT, BT & e-Governance",Mysuru,0.9619,laptops_it|security_services
+B-011,"District Roads Division, Nashik",State Government,Government of Maharashtra,MH,Public Works Department,Nashik,1.074,road_resurfacing|building_construction|borewell_drilling
+B-018,"Water Supply Sub-Division, Barmer",State Government,Government of Rajasthan,RJ,Water Resources Department,Barmer,0.985,water_pipeline|borewell_drilling
+B-034,"Transport Commissionerate Stores, Chennai",Union Government,Government of India,IN,Transport Department,Chennai,1.063,ambulance_vehicle|security_services|building_construction
+B-024,"District Roads Division, Kollam",State Government,Government of Kerala,KL,Public Works Department,Kollam,1.0523,road_resurfacing|building_construction|borewell_drilling
+B-009,"Water Supply Sub-Division, Solapur",State Government,Government of Maharashtra,MH,Water Resources Department,Solapur,1.0615,water_pipeline|borewell_drilling
+B-031,"Zilla Panchayat Engineering Wing, Koraput",State Government,Government of Odisha,OD,Rural Development & Panchayat Raj,Koraput,0.958,road_resurfacing|solar_streetlight|borewell_drilling
+B-027,"City Municipal Corporation, Ganjam",State Government,Government of Odisha,OD,Urban Development Department,Ganjam,0.9495,sanitation_services|solar_streetlight|road_resurfacing

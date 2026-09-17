@@ -1,0 +1,5 @@
+threshold_id,kind,effective_from,value,rule
+T-WORKS-1,works,2022-01-01,2500000.0,Open tender required above this value for works
+T-WORKS-2,works,2025-04-01,4000000.0,Open tender required above this value for works
+T-GOODS-1,goods,2022-01-01,1000000.0,Open tender required above this value for goods
+T-SERV-1,services,2022-01-01,1500000.0,Open tender required above this value for services

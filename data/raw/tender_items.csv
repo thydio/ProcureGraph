@@ -1,0 +1,213 @@
+tender_id,item_id,description,category_code,quantity,unit,unit_price_awarded
+T-0001,T-0001-I1,Laptop and IT hardware supply,laptops_it,707,unit,39844.88
+T-0003,T-0003-I1,Laptop and IT hardware supply,laptops_it,219,unit,37256.82
+T-0006,T-0006-I1,Laptop and IT hardware supply,laptops_it,316,unit,34388.15
+T-0007,T-0007-I1,Laptop and IT hardware supply,laptops_it,528,unit,41853.42
+T-0021,T-0021-I1,Solar street lighting,solar_streetlight,499,unit,13022.86
+T-0023,T-0023-I1,Solar street lighting,solar_streetlight,661,unit,13797.58
+T-0026,T-0026-I1,Solar street lighting,solar_streetlight,817,unit,15748.04
+T-0028,T-0028-I1,Solar street lighting,solar_streetlight,402,unit,17229.98
+T-0029,T-0029-I1,Solar street lighting,solar_streetlight,342,unit,15667.53
+T-0061,T-0061-I1,Ambulance procurement,ambulance_vehicle,15,unit,1736156.64
+T-0067,T-0067-I1,Ambulance procurement,ambulance_vehicle,9,unit,1845461.49
+T-0072,T-0072-I1,Ambulance procurement,ambulance_vehicle,3,unit,2148172.29
+T-0075,T-0075-I1,Ambulance procurement,ambulance_vehicle,19,unit,1929031.42
+T-0090,T-0090-I1,Ambulance procurement,ambulance_vehicle,11,unit,1689530.9
+T-0104,T-0104-I1,Solar street lighting,solar_streetlight,125,unit,16561.47
+T-0106,T-0106-I1,Solar street lighting,solar_streetlight,617,unit,11809.15
+T-0130,T-0130-I1,Solar street lighting,solar_streetlight,546,unit,14237.86
+T-0143,T-0143-I1,Solar street lighting,solar_streetlight,899,unit,13492.43
+T-0146,T-0146-I1,Solar street lighting,solar_streetlight,159,unit,18255.92
+T-0154,T-0154-I1,Solar street lighting,solar_streetlight,265,unit,15657.47
+T-0159,T-0159-I1,Solar street lighting,solar_streetlight,740,unit,14522.5
+T-0160,T-0160-I1,Solar street lighting,solar_streetlight,329,unit,11241.81
+T-0161,T-0161-I1,Solar street lighting,solar_streetlight,368,unit,12688.37
+T-0163,T-0163-I1,Solar street lighting,solar_streetlight,686,unit,14349.12
+T-0164,T-0164-I1,Solar street lighting,solar_streetlight,364,unit,11438.88
+T-0177,T-0177-I1,Solar street lighting,solar_streetlight,517,unit,16552.54
+T-0185,T-0185-I1,Solar street lighting,solar_streetlight,804,unit,12008.32
+T-0192,T-0192-I1,Solar street lighting,solar_streetlight,441,unit,16645.68
+T-0194,T-0194-I1,Solar street lighting,solar_streetlight,511,unit,13486.58
+T-0195,T-0195-I1,Solar street lighting,solar_streetlight,223,unit,12250.42
+T-0196,T-0196-I1,Solar street lighting,solar_streetlight,650,unit,14438.66
+T-0197,T-0197-I1,Solar street lighting,solar_streetlight,591,unit,14561.23
+T-0202,T-0202-I1,Medical consumables supply,medical_supplies,53609,unit,561.41
+T-0204,T-0204-I1,Ambulance procurement,ambulance_vehicle,13,unit,2280718.58
+T-0205,T-0205-I1,Medical consumables supply,medical_supplies,38031,unit,592.65
+T-0206,T-0206-I1,Generic drug supply,drugs_generic,284635,strip,31.94
+T-0207,T-0207-I1,Generic drug supply,drugs_generic,242850,strip,33.74
+T-0208,T-0208-I1,Medical consumables supply,medical_supplies,3938,unit,549.85
+T-0212,T-0212-I1,Generic drug supply,drugs_generic,684659,strip,29.51
+T-0213,T-0213-I1,Ambulance procurement,ambulance_vehicle,20,unit,2415286.6
+T-0216,T-0216-I1,Medical consumables supply,medical_supplies,49893,unit,531.37
+T-0219,T-0219-I1,Generic drug supply,drugs_generic,513775,strip,23.9
+T-0220,T-0220-I1,Medical consumables supply,medical_supplies,18484,unit,568.12
+T-0221,T-0221-I1,Ambulance procurement,ambulance_vehicle,26,unit,2213359.61
+T-0222,T-0222-I1,Medical consumables supply,medical_supplies,46591,unit,503.58
+T-0223,T-0223-I1,Medical consumables supply,medical_supplies,25592,unit,584.88
+T-0225,T-0225-I1,Ambulance procurement,ambulance_vehicle,13,unit,1739341.94
+T-0228,T-0228-I1,Generic drug supply,drugs_generic,816776,strip,22.14
+T-0252,T-0252-I1,Solar street lighting,solar_streetlight,729,unit,13635.5
+T-0253,T-0253-I1,Solar street lighting,solar_streetlight,563,unit,15610.95
+T-0254,T-0254-I1,Solar street lighting,solar_streetlight,296,unit,14735.53
+T-0259,T-0259-I1,Solar street lighting,solar_streetlight,608,unit,13619.18
+T-0260,T-0260-I1,Solar street lighting,solar_streetlight,673,unit,17246.49
+T-0262,T-0262-I1,Solar street lighting,solar_streetlight,399,unit,15995.69
+T-0263,T-0263-I1,Solar street lighting,solar_streetlight,795,unit,14418.62
+T-0273,T-0273-I1,Solar street lighting,solar_streetlight,265,unit,15314.26
+T-0275,T-0275-I1,Solar street lighting,solar_streetlight,882,unit,12913.74
+T-0277,T-0277-I1,Solar street lighting,solar_streetlight,206,unit,15802.45
+T-0281,T-0281-I1,Solar street lighting,solar_streetlight,805,unit,15085.12
+T-0284,T-0284-I1,Solar street lighting,solar_streetlight,96,unit,13400.83
+T-0285,T-0285-I1,Solar street lighting,solar_streetlight,201,unit,12455.67
+T-0286,T-0286-I1,Solar street lighting,solar_streetlight,394,unit,12438.33
+T-0291,T-0291-I1,Solar street lighting,solar_streetlight,397,unit,16051.05
+T-0294,T-0294-I1,Solar street lighting,solar_streetlight,661,unit,16804.75
+T-0297,T-0297-I1,Solar street lighting,solar_streetlight,455,unit,12765.91
+T-0299,T-0299-I1,Solar street lighting,solar_streetlight,320,unit,15876.67
+T-0305,T-0305-I1,Solar street lighting,solar_streetlight,323,unit,13903.23
+T-0307,T-0307-I1,Solar street lighting,solar_streetlight,698,unit,13699.73
+T-0310,T-0310-I1,Ambulance procurement,ambulance_vehicle,29,unit,1917779.4
+T-0312,T-0312-I1,Generic drug supply,drugs_generic,77764,strip,26.03
+T-0314,T-0314-I1,Medical consumables supply,medical_supplies,20991,unit,458.95
+T-0320,T-0320-I1,Generic drug supply,drugs_generic,89084,strip,24.95
+T-0323,T-0323-I1,Medical consumables supply,medical_supplies,28829,unit,477.04
+T-0324,T-0324-I1,Medical consumables supply,medical_supplies,44333,unit,585.04
+T-0325,T-0325-I1,Medical consumables supply,medical_supplies,4267,unit,589.01
+T-0327,T-0327-I1,Medical consumables supply,medical_supplies,53280,unit,582.73
+T-0330,T-0330-I1,Generic drug supply,drugs_generic,524162,strip,20.36
+T-0331,T-0331-I1,Medical consumables supply,medical_supplies,12775,unit,617.96
+T-0334,T-0334-I1,Ambulance procurement,ambulance_vehicle,23,unit,2029916.62
+T-0337,T-0337-I1,Medical consumables supply,medical_supplies,32256,unit,493.49
+T-0339,T-0339-I1,Medical consumables supply,medical_supplies,11060,unit,562.31
+T-0340,T-0340-I1,Medical consumables supply,medical_supplies,48267,unit,492.36
+T-0342,T-0342-I1,Ambulance procurement,ambulance_vehicle,15,unit,1990362.02
+T-0343,T-0343-I1,Generic drug supply,drugs_generic,626927,strip,23.37
+T-0346,T-0346-I1,Ambulance procurement,ambulance_vehicle,9,unit,2266221.63
+T-0347,T-0347-I1,Ambulance procurement,ambulance_vehicle,3,unit,2612288.09
+T-0348,T-0348-I1,Generic drug supply,drugs_generic,663880,strip,22.08
+T-0351,T-0351-I1,Medical consumables supply,medical_supplies,24883,unit,502.5
+T-0352,T-0352-I1,Generic drug supply,drugs_generic,656307,strip,27.64
+T-0353,T-0353-I1,Medical consumables supply,medical_supplies,17452,unit,515.41
+T-0354,T-0354-I1,Generic drug supply,drugs_generic,376103,strip,27.38
+T-0355,T-0355-I1,Medical consumables supply,medical_supplies,59948,unit,567.51
+T-0356,T-0356-I1,Ambulance procurement,ambulance_vehicle,17,unit,2497295.06
+T-0357,T-0357-I1,Solar street lighting,solar_streetlight,786,unit,13358.05
+T-0360,T-0360-I1,Solar street lighting,solar_streetlight,169,unit,13135.76
+T-0364,T-0364-I1,Solar street lighting,solar_streetlight,286,unit,14784.48
+T-0367,T-0367-I1,Solar street lighting,solar_streetlight,461,unit,11522.17
+T-0391,T-0391-I1,Ambulance procurement,ambulance_vehicle,19,unit,1624414.82
+T-0392,T-0392-I1,Ambulance procurement,ambulance_vehicle,29,unit,1767849.29
+T-0394,T-0394-I1,Ambulance procurement,ambulance_vehicle,7,unit,1680874.2
+T-0408,T-0408-I1,Ambulance procurement,ambulance_vehicle,26,unit,1647921.69
+T-0413,T-0413-I1,Ambulance procurement,ambulance_vehicle,6,unit,2065383.39
+T-0414,T-0414-I1,Ambulance procurement,ambulance_vehicle,9,unit,1816427.7
+T-0415,T-0415-I1,Ambulance procurement,ambulance_vehicle,19,unit,1776868.82
+T-0421,T-0421-I1,Solar street lighting,solar_streetlight,546,unit,15021.47
+T-0425,T-0425-I1,Solar street lighting,solar_streetlight,243,unit,12034.89
+T-0432,T-0432-I1,Solar street lighting,solar_streetlight,180,unit,12508.51
+T-0433,T-0433-I1,Solar street lighting,solar_streetlight,280,unit,14369.43
+T-0434,T-0434-I1,Solar street lighting,solar_streetlight,823,unit,12596.7
+T-0435,T-0435-I1,Solar street lighting,solar_streetlight,503,unit,11612.4
+T-0439,T-0439-I1,Solar street lighting,solar_streetlight,328,unit,11820.77
+T-0440,T-0440-I1,Solar street lighting,solar_streetlight,418,unit,11849.59
+T-0441,T-0441-I1,Solar street lighting,solar_streetlight,585,unit,13357.67
+T-0449,T-0449-I1,Solar street lighting,solar_streetlight,138,unit,15166.11
+T-0450,T-0450-I1,Solar street lighting,solar_streetlight,200,unit,12620.43
+T-0452,T-0452-I1,Solar street lighting,solar_streetlight,113,unit,12957.49
+T-0457,T-0457-I1,Solar street lighting,solar_streetlight,538,unit,16718.86
+T-0460,T-0460-I1,Solar street lighting,solar_streetlight,808,unit,14509.0
+T-0466,T-0466-I1,Solar street lighting,solar_streetlight,212,unit,13993.09
+T-0493,T-0493-I1,Laptop and IT hardware supply,laptops_it,742,unit,41875.29
+T-0495,T-0495-I1,Laptop and IT hardware supply,laptops_it,50,unit,41421.34
+T-0496,T-0496-I1,Laptop and IT hardware supply,laptops_it,787,unit,42966.57
+T-0500,T-0500-I1,Laptop and IT hardware supply,laptops_it,467,unit,39883.35
+T-0501,T-0501-I1,Laptop and IT hardware supply,laptops_it,395,unit,43690.05
+T-0506,T-0506-I1,Laptop and IT hardware supply,laptops_it,146,unit,50826.21
+T-0507,T-0507-I1,Laptop and IT hardware supply,laptops_it,302,unit,48714.3
+T-0509,T-0509-I1,Solar street lighting,solar_streetlight,524,unit,13466.74
+T-0511,T-0511-I1,Solar street lighting,solar_streetlight,245,unit,11824.42
+T-0515,T-0515-I1,Solar street lighting,solar_streetlight,619,unit,11783.05
+T-0520,T-0520-I1,Solar street lighting,solar_streetlight,498,unit,13899.94
+T-0527,T-0527-I1,Solar street lighting,solar_streetlight,213,unit,15270.49
+T-0529,T-0529-I1,Solar street lighting,solar_streetlight,771,unit,13816.38
+T-0530,T-0530-I1,Solar street lighting,solar_streetlight,882,unit,11869.11
+T-0535,T-0535-I1,Solar street lighting,solar_streetlight,547,unit,12487.47
+T-0538,T-0538-I1,Solar street lighting,solar_streetlight,696,unit,11244.29
+T-0540,T-0540-I1,Solar street lighting,solar_streetlight,848,unit,11093.48
+T-0543,T-0543-I1,Solar street lighting,solar_streetlight,810,unit,10856.0
+T-0554,T-0554-I1,Solar street lighting,solar_streetlight,296,unit,10578.48
+T-0558,T-0558-I1,Solar street lighting,solar_streetlight,811,unit,10489.92
+T-0559,T-0559-I1,Solar street lighting,solar_streetlight,670,unit,11856.96
+T-0562,T-0562-I1,Laptop and IT hardware supply,laptops_it,824,unit,55534.31
+T-0567,T-0567-I1,Laptop and IT hardware supply,laptops_it,504,unit,46411.38
+T-0570,T-0570-I1,Laptop and IT hardware supply,laptops_it,284,unit,47997.22
+T-0571,T-0571-I1,Laptop and IT hardware supply,laptops_it,400,unit,40695.22
+T-0602,T-0602-I1,Ambulance procurement,ambulance_vehicle,17,unit,2065082.02
+T-0608,T-0608-I1,Ambulance procurement,ambulance_vehicle,29,unit,2160288.24
+T-0615,T-0615-I1,Ambulance procurement,ambulance_vehicle,26,unit,2771205.26
+T-0620,T-0620-I1,Ambulance procurement,ambulance_vehicle,5,unit,2165353.14
+T-0627,T-0627-I1,Ambulance procurement,ambulance_vehicle,2,unit,2507027.83
+T-0650,T-0650-I1,Ambulance procurement,ambulance_vehicle,21,unit,2159890.5
+T-0653,T-0653-I1,Ambulance procurement,ambulance_vehicle,11,unit,2481783.6
+T-0654,T-0654-I1,Ambulance procurement,ambulance_vehicle,24,unit,1906813.59
+T-0664,T-0664-I1,Ambulance procurement,ambulance_vehicle,24,unit,1923108.42
+T-0666,T-0666-I1,Ambulance procurement,ambulance_vehicle,9,unit,1811692.63
+T-0669,T-0669-I1,Laptop and IT hardware supply,laptops_it,733,unit,39617.82
+T-0670,T-0670-I1,Laptop and IT hardware supply,laptops_it,44,unit,45736.08
+T-0672,T-0672-I1,Laptop and IT hardware supply,laptops_it,107,unit,45937.3
+T-0677,T-0677-I1,Laptop and IT hardware supply,laptops_it,441,unit,47027.5
+T-0679,T-0679-I1,Laptop and IT hardware supply,laptops_it,219,unit,39975.58
+T-0686,T-0686-I1,Laptop and IT hardware supply,laptops_it,569,unit,47500.41
+T-0691,T-0691-I1,Laptop and IT hardware supply,laptops_it,535,unit,37591.4
+T-0692,T-0692-I1,Laptop and IT hardware supply,laptops_it,822,unit,35976.2
+T-0696,T-0696-I1,Laptop and IT hardware supply,laptops_it,80,unit,43537.91
+T-0743,T-0743-I1,Ambulance procurement,ambulance_vehicle,13,unit,1974601.11
+T-0750,T-0750-I1,Ambulance procurement,ambulance_vehicle,10,unit,1936027.66
+T-0754,T-0754-I1,Ambulance procurement,ambulance_vehicle,25,unit,1988636.44
+T-0756,T-0756-I1,Ambulance procurement,ambulance_vehicle,25,unit,2464446.04
+T-0814,T-0814-I1,Solar street lighting,solar_streetlight,829,unit,12855.42
+T-0817,T-0817-I1,Solar street lighting,solar_streetlight,470,unit,12148.36
+T-0820,T-0820-I1,Solar street lighting,solar_streetlight,539,unit,13337.53
+T-0828,T-0828-I1,Solar street lighting,solar_streetlight,637,unit,12850.47
+T-0834,T-0834-I1,Solar street lighting,solar_streetlight,373,unit,11068.98
+T-0844,T-0844-I1,Solar street lighting,solar_streetlight,254,unit,12133.94
+T-0845,T-0845-I1,Solar street lighting,solar_streetlight,369,unit,13458.89
+T-0866,T-0866-I1,Medical consumables supply,medical_supplies,8424,unit,704.59
+T-0867,T-0867-I1,Medical consumables supply,medical_supplies,53017,unit,683.03
+T-0868,T-0868-I1,Medical consumables supply,medical_supplies,46090,unit,671.31
+T-0871,T-0871-I1,Medical consumables supply,medical_supplies,15183,unit,634.11
+T-0873,T-0873-I1,Medical consumables supply,medical_supplies,15338,unit,690.39
+T-0876,T-0876-I1,Medical consumables supply,medical_supplies,39076,unit,692.96
+T-0877,T-0877-I1,Medical consumables supply,medical_supplies,7098,unit,753.41
+T-0888,T-0888-I1,Laptop and IT hardware supply,laptops_it,520,unit,55881.58
+T-0889,T-0889-I1,Laptop and IT hardware supply,laptops_it,751,unit,55267.6
+T-0890,T-0890-I1,Laptop and IT hardware supply,laptops_it,156,unit,53035.62
+T-0891,T-0891-I1,Laptop and IT hardware supply,laptops_it,125,unit,53858.82
+T-0892,T-0892-I1,Laptop and IT hardware supply,laptops_it,384,unit,55716.26
+T-0894,T-0894-I1,Laptop and IT hardware supply,laptops_it,363,unit,61162.86
+T-0895,T-0895-I1,Laptop and IT hardware supply,laptops_it,478,unit,53342.41
+T-0896,T-0896-I1,Solar street lighting,solar_streetlight,82,unit,16213.78
+T-0897,T-0897-I1,Solar street lighting,solar_streetlight,289,unit,18502.52
+T-0898,T-0898-I1,Solar street lighting,solar_streetlight,106,unit,14940.04
+T-0899,T-0899-I1,Solar street lighting,solar_streetlight,761,unit,14859.3
+T-0900,T-0900-I1,Solar street lighting,solar_streetlight,90,unit,15677.47
+T-0902,T-0902-I1,Solar street lighting,solar_streetlight,459,unit,15410.33
+T-0903,T-0903-I1,Solar street lighting,solar_streetlight,722,unit,14416.05
+T-0904,T-0904-I1,Solar street lighting,solar_streetlight,423,unit,15677.2
+T-0947,T-0947-I1,Laptop and IT hardware supply,laptops_it,119,unit,45463.91
+T-0948,T-0948-I1,Laptop and IT hardware supply,laptops_it,219,unit,48626.01
+T-0949,T-0949-I1,Solar street lighting,solar_streetlight,60,unit,12387.48
+T-0950,T-0950-I1,Solar street lighting,solar_streetlight,245,unit,13782.35
+T-0952,T-0952-I1,Solar street lighting,solar_streetlight,292,unit,14251.32
+T-0971,T-0971-I1,Solar street lighting,solar_streetlight,56,unit,18315.99
+T-0974,T-0974-I1,Solar street lighting,solar_streetlight,54,unit,18368.7
+T-0975,T-0975-I1,Solar street lighting,solar_streetlight,51,unit,18231.23
+T-0980,T-0980-I1,Generic drug supply,drugs_generic,697423,strip,34.51
+T-0981,T-0981-I1,Generic drug supply,drugs_generic,377884,strip,33.75
+T-0983,T-0983-I1,Ambulance procurement,ambulance_vehicle,30,unit,3079081.72
+T-0985,T-0985-I1,Laptop and IT hardware supply,laptops_it,488,unit,48683.93
+T-0986,T-0986-I1,Laptop and IT hardware supply,laptops_it,286,unit,49184.74
+T-0987,T-0987-I1,Laptop and IT hardware supply,laptops_it,550,unit,48405.57
+T-0992,T-0992-I1,Ambulance procurement,ambulance_vehicle,4,unit,3879894.64
+T-0996,T-0996-I1,Generic drug supply,drugs_generic,334836,strip,38.85

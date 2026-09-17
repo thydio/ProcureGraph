@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ProcureGraph - procurement risk console</title>
+<link rel="stylesheet" href="/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='14' fill='%232DD4BF'/></svg>">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand" onclick="go('overview')" role="button" tabindex="0" onkeydown="if(event.key==='Enter')go('overview')">
+    <svg viewBox="0 0 32 32" fill="none" aria-hidden="true">
+      <circle cx="8" cy="9" r="3.4" stroke="#2DD4BF" stroke-width="1.8"/>
+      <circle cx="24" cy="8" r="3.4" stroke="#6BA5F8" stroke-width="1.8"/>
+      <circle cx="16" cy="23" r="3.4" stroke="#F5A524" stroke-width="1.8"/>
+      <path d="M10.7 10.6 13.6 20M21.4 10.4 18.6 20M11.2 8.6h9.6" stroke="#3E4C6B" stroke-width="1.6"/>
+    </svg>
+    <div>
+      <div class="brand-name">ProcureGraph</div>
+      <div class="brand-sub">Procurement risk console</div>
+    </div>
+  </div>
+
+  <nav class="topsearch">
+    <button class="btn ghost" onclick="go('overview')">Queue</button>
+    <button class="btn ghost" onclick="go('search')">Browse</button>
+    <label for="tidbox" class="tiny dim" style="margin-left:8px">Tender ID</label>
+    <input id="tidbox" type="text" placeholder="T-0417" autocomplete="off"
+           aria-label="Open a tender by its ID" onkeydown="if(event.key==='Enter')openTid()">
+    <button class="btn primary" onclick="openTid()">Open</button>
+  </nav>
+</header>
+
+<main>
+
+<!-- ============ OVERVIEW ============ -->
+<section id="view-overview" class="view active">
+  <div class="page-head">
+    <h1>Investigation queue</h1>
+    <p>Cases ranked by priority. Tiers are instructions, not verdicts.</p>
+  </div>
+
+  <div class="tiles" id="tiles"></div>
+
+  <div class="grid cols-2" style="margin-bottom:16px">
+    <div class="card">
+      <h2>Detector coverage</h2>
+      <p class="small muted" style="margin:-4px 0 12px">
+        What each detector could actually check. Silence is reported as coverage, never as a clean bill of health.
+      </p>
+      <div id="coverage"></div>
+    </div>
+    <div class="card">
+      <h2>Flagged tenders by department</h2>
+      <div id="bydept"></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Top 20 by priority — this week's alert budget</h2>
+    <div class="table-wrap" id="topqueue"></div>
+  </div>
+</section>
+
+<!-- ============ SEARCH ============ -->
+<section id="view-search" class="view">
+  <div class="page-head">
+    <h1>Browse procurement</h1>
+    <p>Narrow by government, department, buyer or category — or open a tender ID directly.</p>
+  </div>
+
+  <div class="grid cols-sidebar">
+    <div class="card filters">
+      <h2>Filters</h2>
+      <div class="field">
+        <label for="f-gov">Government</label>
+        <select id="f-gov" onchange="onGovChange()"><option value="">All governments</option></select>
+      </div>
+      <div class="field">
+        <label for="f-dept">Department</label>
+        <select id="f-dept" onchange="onDeptChange()"><option value="">All departments</option></select>
+      </div>
+      <div class="field">
+        <label for="f-buyer">Buying office</label>
+        <select id="f-buyer" onchange="runSearch()"><option value="">All offices</option></select>
+      </div>
+      <div class="divider"></div>
+      <div class="field">
+        <label for="f-cat">What was bought</label>
+        <select id="f-cat" onchange="runSearch()"><option value="">Any category</option></select>
+      </div>
+      <div class="field">
+        <label for="f-method">Procurement method</label>
+        <select id="f-method" onchange="runSearch()"><option value="">Any method</option></select>
+      </div>
+      <div class="divider"></div>
+      <div class="field">
+        <label for="f-tier">Priority tier</label>
+        <select id="f-tier" onchange="runSearch()">
+          <option value="">Any tier</option>
+          <option>Tier 1</option><option>Tier 2</option><option>Tier 3</option>
+          <option>Tier 4</option><option>Data gap</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="f-minp">Minimum priority <span id="minp-val" class="mono">0.00</span></label>
+        <div class="range-row">
+          <input id="f-minp" type="range" min="0" max="0.9" step="0.05" value="0"
+                 oninput="document.getElementById('minp-val').textContent=(+this.value).toFixed(2)"
+                 onchange="runSearch()">
+        </div>
+      </div>
+      <div class="field">
+        <label for="f-text">Vendor, buyer or title contains</label>
+        <input id="f-text" type="text" placeholder="e.g. Roadways" onkeydown="if(event.key==='Enter')runSearch()">
+        <div class="hint">Press Enter to apply</div>
+      </div>
+      <div class="field">
+        <label for="f-sort">Sort by</label>
+        <select id="f-sort" onchange="runSearch()">
+          <option value="priority">Priority</option>
+          <option value="risk">Risk score</option>
+          <option value="value">Contract value</option>
+          <option value="date">Publication date</option>
+          <option value="tender">Tender ID</option>
+        </select>
+      </div>
+      <button class="btn" style="width:100%" onclick="resetFilters()">Clear filters</button>
+    </div>
+
+    <div>
+      <div class="page-head" style="margin-bottom:10px">
+        <div id="result-count" class="small muted">Loading…</div>
+      </div>
+      <div class="table-wrap" id="results"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ DOSSIER ============ -->
+<section id="view-tender" class="view">
+  <button class="btn ghost" style="margin-bottom:16px" onclick="goBack()">&larr; Back to results</button>
+  <div id="dossier"><div class="empty"><span class="spinner"></span></div></div>
+</section>
+
+</main>
+
+<script src="/app.js"></script>
+</body>
+</html>

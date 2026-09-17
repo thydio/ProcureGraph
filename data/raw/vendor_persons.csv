@@ -1,0 +1,446 @@
+vendor_id,person_id,person_name,role,appointed_on
+V-0001,P-0001,P. Desai,Director,2020-11-30
+V-0001,P-0002,R. Gowda,Partner,2020-04-08
+V-0002,P-0003,D. Pillai,Director,2020-07-23
+V-0003,P-0004,A. Chauhan,Director,2026-05-06
+V-0003,P-0005,K. Joshi,Director,2025-09-20
+V-0003,P-0006,H. Naik,Partner,2018-12-28
+V-0004,P-0007,S. Chauhan,Director,2024-04-20
+V-0005,P-0008,M. Bhat,Director,2019-09-13
+V-0005,P-0009,N. Kamath,Director,2025-04-23
+V-0005,P-0010,H. Shetty,Authorised Signatory,2023-10-04
+V-0006,P-0011,S. Sharma,Director,2021-11-28
+V-0007,P-0012,P. Rao,Director,2026-04-24
+V-0008,P-0013,M. Kamath,Director,2026-04-08
+V-0009,P-0014,V. Chauhan,Director,2024-08-23
+V-0010,P-0015,B. Sharma,Director,2025-08-05
+V-0010,P-0016,B. Iyer,Partner,2025-06-27
+V-0011,P-0017,P. Patil,Director,2026-03-24
+V-0012,P-0018,K. Naik,Director,2014-03-29
+V-0012,P-0019,S. Mehta,Partner,2025-12-10
+V-0013,P-0020,R. Nair,Director,2022-09-29
+V-0013,P-0021,N. Kamath,Authorised Signatory,2007-09-27
+V-0013,P-0022,S. Kamath,Director,2007-07-14
+V-0014,P-0023,H. Sahoo,Director,2017-11-12
+V-0015,P-0024,K. Kamath,Director,2021-02-10
+V-0016,P-0025,B. Sharma,Director,2020-05-10
+V-0017,P-0026,T. Nair,Director,2018-05-08
+V-0017,P-0027,R. Reddy,Director,2011-07-11
+V-0018,P-0028,V. Patil,Director,2014-12-24
+V-0018,P-0029,G. Reddy,Director,2024-05-22
+V-0018,P-0030,M. Nair,Director,2015-04-01
+V-0019,P-0031,V. Mishra,Director,2026-05-19
+V-0019,P-0032,K. Patil,Partner,2026-06-26
+V-0020,P-0033,K. Rao,Director,2017-03-20
+V-0021,P-0034,B. Pillai,Director,2024-03-07
+V-0022,P-0035,A. Shetty,Director,2019-10-05
+V-0022,P-0036,V. Mishra,Partner,2016-08-21
+V-0023,P-0037,V. Chauhan,Director,2021-07-20
+V-0024,P-0038,T. Kulkarni,Director,2015-04-23
+V-0025,P-0039,T. Nair,Director,2013-03-08
+V-0026,P-0040,S. Sahoo,Director,2013-10-24
+V-0027,P-0041,N. Menon,Director,2022-08-08
+V-0027,P-0042,A. Reddy,Authorised Signatory,2020-02-11
+V-0027,P-0043,B. Gowda,Authorised Signatory,2020-07-04
+V-0028,P-0044,V. Sahoo,Director,2025-04-14
+V-0029,P-0045,S. Desai,Director,2026-04-13
+V-0029,P-0046,B. Patil,Director,2015-10-16
+V-0030,P-0047,D. Rao,Director,2013-01-03
+V-0031,P-0048,T. Bhat,Director,2022-03-31
+V-0031,P-0049,M. Reddy,Authorised Signatory,2024-09-07
+V-0032,P-0050,R. Chauhan,Director,2024-12-06
+V-0032,P-0051,G. Gowda,Partner,2025-09-30
+V-0032,P-0052,T. Joshi,Partner,2021-03-16
+V-0033,P-0053,R. Pillai,Director,2025-09-17
+V-0034,P-0054,N. Desai,Director,2013-06-09
+V-0035,P-0055,M. Reddy,Director,2016-05-27
+V-0036,P-0056,M. Bhat,Director,2025-06-09
+V-0036,P-0057,A. Patil,Partner,2023-02-21
+V-0036,P-0058,P. Joshi,Authorised Signatory,2020-08-06
+V-0037,P-0059,D. Pillai,Director,2019-03-17
+V-0038,P-0060,V. Reddy,Director,2019-10-13
+V-0039,P-0061,N. Kamath,Director,2010-09-10
+V-0039,P-0062,M. Iyer,Authorised Signatory,2025-12-31
+V-0040,P-0063,A. Gowda,Director,2018-12-23
+V-0041,P-0064,A. Chauhan,Director,2021-10-18
+V-0042,P-0065,G. Sharma,Director,2010-02-23
+V-0043,P-0066,S. Nair,Director,2020-06-01
+V-0043,P-0067,P. Patil,Authorised Signatory,2018-03-17
+V-0044,P-0068,V. Patil,Director,2013-04-11
+V-0044,P-0069,V. Bhat,Director,2013-09-17
+V-0044,P-0070,K. Reddy,Authorised Signatory,2024-12-02
+V-0045,P-0071,G. Kulkarni,Director,2020-03-15
+V-0045,P-0072,A. Sahoo,Partner,2023-07-12
+V-0046,P-0073,A. Chauhan,Director,2022-04-26
+V-0046,P-0074,R. Sharma,Director,2021-09-13
+V-0046,P-0075,S. Nair,Partner,2024-06-17
+V-0047,P-0076,G. Joshi,Director,2024-02-14
+V-0048,P-0077,G. Kamath,Director,2011-09-15
+V-0049,P-0078,V. Kamath,Director,2026-02-04
+V-0049,P-0079,B. Naik,Partner,2020-12-09
+V-0050,P-0080,D. Sahoo,Director,2026-04-01
+V-0050,P-0081,D. Iyer,Director,2026-05-22
+V-0051,P-0082,P. Reddy,Director,2025-09-05
+V-0051,P-0083,T. Reddy,Partner,2026-06-15
+V-0051,P-0084,N. Sahoo,Authorised Signatory,2025-02-01
+V-0052,P-0085,K. Sharma,Director,2021-03-23
+V-0052,P-0086,T. Shetty,Authorised Signatory,2019-07-07
+V-0052,P-0087,H. Mehta,Director,2013-02-22
+V-0053,P-0088,N. Desai,Director,2019-05-08
+V-0054,P-0089,S. Reddy,Director,2023-10-26
+V-0054,P-0090,K. Bhat,Authorised Signatory,2022-06-27
+V-0055,P-0091,A. Chauhan,Director,2018-10-12
+V-0056,P-0092,A. Rao,Director,2009-12-09
+V-0056,P-0093,V. Kulkarni,Director,2014-01-09
+V-0057,P-0094,S. Mishra,Director,2016-05-02
+V-0057,P-0095,M. Menon,Director,2013-10-30
+V-0058,P-0096,T. Desai,Director,2023-03-21
+V-0058,P-0097,D. Menon,Partner,2022-06-07
+V-0059,P-0098,K. Pillai,Director,2024-09-11
+V-0059,P-0099,K. Rao,Authorised Signatory,2025-01-19
+V-0060,P-0100,T. Menon,Director,2012-04-02
+V-0061,P-0101,S. Reddy,Director,2019-04-23
+V-0062,P-0102,B. Reddy,Director,2016-12-29
+V-0062,P-0103,N. Shetty,Partner,2012-02-29
+V-0063,P-0104,M. Gowda,Director,2025-01-16
+V-0063,P-0105,A. Bhat,Authorised Signatory,2016-05-06
+V-0064,P-0106,B. Sahoo,Director,2024-07-08
+V-0064,P-0107,K. Pillai,Authorised Signatory,2023-03-28
+V-0064,P-0108,R. Desai,Director,2022-01-12
+V-0065,P-0109,R. Menon,Director,2026-03-28
+V-0065,P-0110,K. Mehta,Authorised Signatory,2024-05-17
+V-0066,P-0111,T. Reddy,Director,2022-02-27
+V-0067,P-0112,K. Iyer,Director,2025-10-31
+V-0068,P-0113,V. Gowda,Director,2026-05-08
+V-0068,P-0114,B. Sharma,Director,2016-09-02
+V-0069,P-0115,B. Patil,Director,2021-12-28
+V-0070,P-0116,G. Sharma,Director,2012-06-29
+V-0071,P-0117,R. Nair,Director,2020-01-12
+V-0072,P-0118,H. Bhat,Director,2015-03-29
+V-0073,P-0119,V. Sahoo,Director,2022-09-21
+V-0074,P-0120,M. Bhat,Director,2024-02-07
+V-0074,P-0121,P. Sharma,Authorised Signatory,2016-04-21
+V-0075,P-0122,G. Shetty,Director,2023-02-27
+V-0075,P-0123,R. Sharma,Authorised Signatory,2024-02-12
+V-0076,P-0124,T. Patil,Director,2018-04-26
+V-0076,P-0125,T. Gowda,Partner,2023-12-25
+V-0077,P-0126,H. Nair,Director,2014-08-02
+V-0078,P-0127,M. Pillai,Director,2023-05-30
+V-0078,P-0128,B. Desai,Authorised Signatory,2017-02-05
+V-0079,P-0129,S. Shetty,Director,2025-12-21
+V-0079,P-0130,A. Chauhan,Director,2020-11-07
+V-0080,P-0131,K. Nair,Director,2011-09-02
+V-0080,P-0132,A. Bhat,Authorised Signatory,2026-04-12
+V-0081,P-0133,V. Mishra,Director,2023-03-22
+V-0082,P-0134,M. Pillai,Director,2018-04-04
+V-0083,P-0135,R. Rao,Director,2024-03-08
+V-0084,P-0136,H. Mehta,Director,2020-06-18
+V-0085,P-0137,V. Patil,Director,2026-01-09
+V-0085,P-0138,G. Kamath,Director,2026-08-08
+V-0086,P-0139,R. Chauhan,Director,2022-12-15
+V-0087,P-0140,P. Patil,Director,2011-08-03
+V-0088,P-0141,A. Shetty,Director,2016-11-12
+V-0088,P-0142,R. Reddy,Director,2008-05-24
+V-0089,P-0143,A. Patil,Director,2023-09-17
+V-0089,P-0144,P. Menon,Partner,2017-01-02
+V-0090,P-0145,G. Naik,Director,2026-06-07
+V-0090,P-0146,K. Kulkarni,Partner,2023-07-23
+V-0090,P-0147,A. Naik,Director,2023-02-08
+V-0091,P-0148,B. Pillai,Director,2008-01-23
+V-0091,P-0149,V. Nair,Director,2021-06-05
+V-0091,P-0150,B. Sahoo,Director,2019-02-17
+V-0092,P-0151,H. Pillai,Director,2020-06-11
+V-0093,P-0152,H. Chauhan,Director,2025-04-23
+V-0093,P-0153,M. Desai,Director,2025-12-15
+V-0094,P-0154,K. Nair,Director,2025-02-20
+V-0094,P-0155,R. Menon,Authorised Signatory,2024-08-30
+V-0094,P-0156,R. Pillai,Partner,2026-04-03
+V-0095,P-0157,D. Patil,Director,2020-11-13
+V-0096,P-0158,R. Mehta,Director,2024-05-10
+V-0096,P-0159,D. Joshi,Director,2016-11-25
+V-0097,P-0160,R. Rao,Director,2023-06-11
+V-0098,P-0161,R. Rao,Director,2020-03-04
+V-0099,P-0162,D. Desai,Director,2021-08-27
+V-0099,P-0163,H. Chauhan,Authorised Signatory,2023-05-15
+V-0099,P-0164,H. Naik,Authorised Signatory,2022-03-24
+V-0100,P-0165,M. Reddy,Director,2011-07-24
+V-0100,P-0166,A. Sharma,Authorised Signatory,2015-12-01
+V-0101,P-0167,T. Joshi,Director,2022-12-28
+V-0101,P-0168,A. Sharma,Director,2022-07-09
+V-0101,P-0169,A. Nair,Director,2024-11-03
+V-0102,P-0170,P. Menon,Director,2020-03-13
+V-0103,P-0171,M. Pillai,Director,2021-10-28
+V-0103,P-0172,V. Mishra,Director,2025-03-26
+V-0104,P-0173,S. Sharma,Director,2026-06-09
+V-0105,P-0174,H. Iyer,Director,2018-12-15
+V-0106,P-0175,D. Shetty,Director,2024-05-09
+V-0107,P-0176,N. Kamath,Director,2021-06-21
+V-0107,P-0177,N. Joshi,Director,2019-06-26
+V-0107,P-0178,H. Reddy,Partner,2020-01-09
+V-0108,P-0179,K. Kamath,Director,2019-01-23
+V-0108,P-0180,P. Kamath,Director,2010-07-24
+V-0109,P-0181,R. Shetty,Director,2017-05-17
+V-0110,P-0182,N. Iyer,Director,2024-02-28
+V-0110,P-0183,G. Pillai,Director,2024-06-28
+V-0110,P-0184,B. Mishra,Partner,2024-12-14
+V-0111,P-0185,T. Pillai,Director,2013-05-27
+V-0112,P-0186,T. Joshi,Director,2023-03-08
+V-0113,P-0187,V. Menon,Director,2023-12-05
+V-0113,P-0188,V. Chauhan,Authorised Signatory,2025-05-23
+V-0114,P-0189,G. Desai,Director,2012-07-21
+V-0115,P-0190,T. Menon,Director,2026-01-27
+V-0115,P-0191,A. Mehta,Director,2021-06-29
+V-0115,P-0192,B. Mishra,Authorised Signatory,2025-09-04
+V-0116,P-0193,D. Iyer,Director,2019-03-07
+V-0117,P-0194,R. Reddy,Director,2020-06-01
+V-0118,P-0195,K. Naik,Director,2014-10-31
+V-0118,P-0196,H. Naik,Director,2024-11-10
+V-0118,P-0197,S. Mehta,Director,2015-04-08
+V-0119,P-0198,S. Sharma,Director,2026-07-22
+V-0120,P-0199,A. Shetty,Director,2018-10-08
+V-0121,P-0200,K. Shetty,Director,2020-11-25
+V-0122,P-0201,V. Mishra,Director,2019-09-25
+V-0122,P-0202,K. Patil,Partner,2010-06-17
+V-0123,P-0203,T. Nair,Director,2021-05-08
+V-0123,P-0204,R. Sharma,Authorised Signatory,2025-03-30
+V-0124,P-0205,N. Desai,Director,2021-05-03
+V-0124,P-0206,V. Bhat,Director,2012-06-15
+V-0125,P-0207,R. Kamath,Director,2025-08-11
+V-0126,P-0208,V. Menon,Director,2023-07-14
+V-0127,P-0209,R. Sharma,Director,2023-04-16
+V-0128,P-0210,G. Kulkarni,Director,2021-12-31
+V-0128,P-0211,V. Naik,Partner,2026-02-05
+V-0129,P-0212,D. Kulkarni,Director,2017-02-02
+V-0129,P-0213,K. Rao,Partner,2018-02-06
+V-0130,P-0214,B. Mehta,Director,2023-09-17
+V-0131,P-0215,G. Kamath,Director,2023-09-12
+V-0132,P-0216,R. Desai,Director,2024-01-15
+V-0133,P-0217,H. Naik,Director,2017-02-12
+V-0134,P-0218,R. Sharma,Director,2022-01-07
+V-0135,P-0219,H. Mishra,Director,2009-06-22
+V-0135,P-0220,D. Rao,Director,2006-04-13
+V-0135,P-0221,V. Kulkarni,Director,2008-02-16
+V-0136,P-0222,A. Gowda,Director,2023-05-09
+V-0136,P-0223,B. Rao,Director,2025-06-21
+V-0137,P-0224,S. Kulkarni,Director,2022-04-13
+V-0138,P-0225,T. Desai,Director,2010-05-16
+V-0138,P-0226,A. Chauhan,Director,2015-04-05
+V-0139,P-0227,B. Bhat,Director,2017-12-06
+V-0140,P-0228,T. Mehta,Director,2010-04-13
+V-0141,P-0229,K. Sahoo,Director,2010-06-27
+V-0142,P-0230,G. Mehta,Director,2012-07-15
+V-0142,P-0231,H. Sharma,Partner,2016-03-10
+V-0143,P-0232,A. Nair,Director,2009-06-08
+V-0144,P-0233,A. Sahoo,Director,2017-04-07
+V-0144,P-0234,V. Nair,Authorised Signatory,2011-05-22
+V-0145,P-0235,G. Kulkarni,Director,2022-07-23
+V-0146,P-0236,A. Menon,Director,2022-06-23
+V-0146,P-0237,H. Pillai,Partner,2022-08-05
+V-0147,P-0238,M. Reddy,Director,2021-12-22
+V-0148,P-0239,N. Mehta,Director,2019-01-05
+V-0148,P-0240,R. Menon,Partner,2023-01-25
+V-0148,P-0241,G. Kulkarni,Authorised Signatory,2024-05-17
+V-0149,P-0242,R. Reddy,Director,2014-05-10
+V-0150,P-0243,A. Patil,Director,2026-09-06
+V-0150,P-0244,P. Reddy,Director,2018-08-31
+V-0151,P-0245,N. Reddy,Director,2024-10-16
+V-0151,P-0246,R. Iyer,Director,2017-03-18
+V-0152,P-0247,K. Desai,Director,2022-06-10
+V-0153,P-0248,A. Gowda,Director,2017-05-22
+V-0154,P-0249,T. Pillai,Director,2019-10-07
+V-0154,P-0250,R. Chauhan,Authorised Signatory,2021-10-16
+V-0155,P-0251,M. Naik,Director,2024-07-16
+V-0155,P-0252,V. Patil,Director,2023-09-19
+V-0155,P-0253,G. Sharma,Director,2026-01-05
+V-0156,P-0254,P. Patil,Director,2025-10-03
+V-0156,P-0255,M. Chauhan,Partner,2025-08-03
+V-0157,P-0256,G. Patil,Director,2023-09-28
+V-0158,P-0257,P. Sharma,Director,2015-06-01
+V-0159,P-0258,H. Kulkarni,Director,2026-04-03
+V-0159,P-0259,B. Patil,Director,2019-01-01
+V-0160,P-0260,T. Gowda,Director,2020-05-25
+V-0160,P-0261,B. Sahoo,Partner,2026-04-29
+V-0160,P-0262,T. Menon,Partner,2013-02-06
+V-0161,P-0263,V. Shetty,Director,2019-01-10
+V-0162,P-0264,B. Shetty,Director,2022-08-26
+V-0163,P-0265,D. Pillai,Director,2025-11-05
+V-0163,P-0266,H. Pillai,Director,2021-09-02
+V-0163,P-0267,K. Naik,Authorised Signatory,2011-09-30
+V-0164,P-0268,N. Shetty,Director,2015-08-15
+V-0165,P-0269,R. Sahoo,Director,2014-06-13
+V-0165,P-0270,R. Mehta,Authorised Signatory,2008-01-05
+V-0165,P-0271,D. Kamath,Partner,2024-06-23
+V-0166,P-0272,V. Kulkarni,Director,2017-12-08
+V-0166,P-0273,N. Joshi,Director,2025-08-16
+V-0167,P-0274,D. Mishra,Director,2018-12-22
+V-0167,P-0275,K. Desai,Partner,2019-05-19
+V-0168,P-0276,B. Nair,Director,2020-10-11
+V-0169,P-0277,T. Sahoo,Director,2016-05-22
+V-0169,P-0278,B. Menon,Partner,2020-06-04
+V-0170,P-0279,N. Patil,Director,2015-03-25
+V-0171,P-0280,G. Pillai,Director,2025-05-19
+V-0171,P-0281,K. Reddy,Authorised Signatory,2024-02-24
+V-0171,P-0282,T. Mehta,Partner,2021-08-01
+V-0172,P-0283,M. Gowda,Director,2021-07-11
+V-0173,P-0284,M. Menon,Director,2025-10-18
+V-0174,P-0285,R. Joshi,Director,2021-07-01
+V-0175,P-0286,N. Reddy,Director,2018-01-26
+V-0176,P-0287,B. Kamath,Director,2020-10-11
+V-0177,P-0288,M. Chauhan,Director,2020-09-26
+V-0178,P-0289,B. Desai,Director,2024-11-07
+V-0179,P-0290,T. Reddy,Director,2020-08-14
+V-0179,P-0291,P. Mehta,Director,2022-02-23
+V-0180,P-0292,K. Patil,Director,2018-04-17
+V-0180,P-0293,B. Mehta,Authorised Signatory,2020-04-16
+V-0181,P-0294,V. Sahoo,Director,2025-01-07
+V-0181,P-0295,P. Kulkarni,Authorised Signatory,2021-02-26
+V-0182,P-0296,S. Menon,Director,2024-12-31
+V-0182,P-0297,A. Desai,Authorised Signatory,2024-01-25
+V-0182,P-0298,N. Kamath,Authorised Signatory,2025-06-24
+V-0183,P-0299,D. Patil,Director,2019-08-04
+V-0183,P-0300,V. Kulkarni,Director,2020-03-17
+V-0183,P-0301,D. Chauhan,Director,2021-07-25
+V-0184,P-0302,P. Sharma,Director,2018-03-21
+V-0184,P-0303,A. Nair,Authorised Signatory,2021-10-05
+V-0185,P-0304,A. Rao,Director,2021-12-16
+V-0186,P-0305,B. Naik,Director,2022-08-21
+V-0186,P-0306,S. Rao,Partner,2021-07-28
+V-0186,P-0307,G. Patil,Director,2012-12-07
+V-0187,P-0308,K. Joshi,Director,2025-05-12
+V-0187,P-0309,N. Menon,Authorised Signatory,2024-02-09
+V-0188,P-0310,T. Mishra,Director,2025-11-18
+V-0189,P-0311,P. Iyer,Director,2020-07-25
+V-0190,P-0312,R. Joshi,Director,2016-06-12
+V-0190,P-0313,B. Bhat,Partner,2017-05-17
+V-0191,P-0314,T. Rao,Director,2026-05-27
+V-0192,P-0315,A. Kulkarni,Director,2023-01-05
+V-0193,P-0316,K. Pillai,Director,2007-04-05
+V-0193,P-0317,P. Pillai,Authorised Signatory,2012-09-16
+V-0193,P-0318,G. Sharma,Authorised Signatory,2006-09-13
+V-0194,P-0319,N. Joshi,Director,2017-09-08
+V-0194,P-0320,T. Reddy,Director,2019-02-06
+V-0194,P-0321,B. Iyer,Director,2016-02-20
+V-0195,P-0322,D. Kulkarni,Director,2023-05-22
+V-0195,P-0323,P. Gowda,Authorised Signatory,2024-01-02
+V-0196,P-0324,H. Sharma,Director,2018-04-30
+V-0196,P-0325,M. Nair,Director,2026-05-22
+V-0197,P-0326,H. Patil,Director,2025-02-12
+V-0198,P-0327,B. Mehta,Director,2024-06-05
+V-0198,P-0328,M. Kamath,Partner,2010-11-09
+V-0198,P-0329,B. Chauhan,Authorised Signatory,2011-09-28
+V-0199,P-0330,D. Patil,Director,2016-03-24
+V-0199,P-0331,A. Kamath,Director,2016-07-25
+V-0199,P-0332,M. Iyer,Authorised Signatory,2020-03-12
+V-0200,P-0333,T. Rao,Director,2017-10-19
+V-0201,P-0334,B. Bhat,Director,2026-04-09
+V-0201,P-0335,V. Kamath,Director,2009-10-25
+V-0202,P-0336,P. Sharma,Director,2019-06-21
+V-0202,P-0337,M. Kulkarni,Director,2017-02-28
+V-0203,P-0338,G. Pillai,Director,2015-06-18
+V-0204,P-0339,D. Nair,Director,2008-10-23
+V-0204,P-0340,P. Chauhan,Director,2019-11-11
+V-0205,P-0341,M. Kulkarni,Director,2019-04-17
+V-0205,P-0342,T. Patil,Partner,2021-11-14
+V-0206,P-0343,A. Sharma,Director,2020-06-25
+V-0207,P-0344,B. Pillai,Director,2025-05-05
+V-0208,P-0345,T. Shetty,Director,2020-06-28
+V-0209,P-0346,G. Rao,Director,2025-07-17
+V-0210,P-0347,N. Iyer,Director,2026-03-13
+V-0211,P-0348,G. Iyer,Director,2023-10-02
+V-0212,P-0349,T. Reddy,Director,2019-11-23
+V-0212,P-0350,S. Chauhan,Authorised Signatory,2023-10-27
+V-0213,P-0351,S. Mishra,Director,2024-03-25
+V-0213,P-0352,T. Reddy,Partner,2023-09-24
+V-0213,P-0353,G. Sharma,Partner,2022-05-14
+V-0214,P-0354,A. Mishra,Director,2026-06-05
+V-0214,P-0355,S. Joshi,Director,2024-07-10
+V-0215,P-0356,K. Kamath,Director,2021-05-30
+V-0215,P-0357,T. Patil,Authorised Signatory,2021-03-06
+V-0215,P-0358,A. Bhat,Director,2024-06-27
+V-0216,P-0359,M. Joshi,Director,2020-10-05
+V-0216,P-0360,M. Bhat,Authorised Signatory,2019-05-27
+V-0216,P-0361,G. Sahoo,Authorised Signatory,2018-12-03
+V-0217,P-0362,M. Chauhan,Director,2020-11-09
+V-0217,P-0363,A. Gowda,Authorised Signatory,2026-04-03
+V-0218,P-0364,P. Chauhan,Director,2021-11-12
+V-0219,P-0365,V. Reddy,Director,2014-08-20
+V-0219,P-0366,S. Iyer,Director,2010-09-18
+V-0220,P-0367,P. Nair,Director,2018-01-08
+V-0220,P-0368,P. Reddy,Authorised Signatory,2017-05-05
+V-0220,P-0369,T. Desai,Partner,2015-10-05
+V-0221,P-0370,D. Rao,Director,2009-12-31
+V-0221,P-0371,D. Chauhan,Director,2018-02-05
+V-0222,P-0372,B. Nair,Director,2024-02-23
+V-0222,P-0373,V. Iyer,Partner,2026-09-05
+V-0223,P-0374,B. Menon,Director,2024-08-05
+V-0223,P-0375,G. Sahoo,Authorised Signatory,2013-10-04
+V-0224,P-0376,A. Mehta,Director,2024-12-06
+V-0224,P-0377,B. Pillai,Director,2018-02-14
+V-0225,P-0378,S. Iyer,Director,2019-04-30
+V-0225,P-0379,M. Mishra,Partner,2026-02-19
+V-0226,P-0380,A. Pillai,Director,2024-03-03
+V-0227,P-0381,V. Nair,Director,2023-09-03
+V-0228,P-0382,N. Sahoo,Director,2026-05-10
+V-0228,P-0383,V. Naik,Director,2017-01-07
+V-0229,P-0384,S. Menon,Director,2021-06-24
+V-0229,P-0385,G. Bhat,Authorised Signatory,2025-04-08
+V-0230,P-0386,D. Menon,Director,2012-09-01
+V-0231,P-0387,D. Reddy,Director,2024-12-18
+V-0232,P-0388,K. Kamath,Director,2009-12-10
+V-0232,P-0389,B. Sahoo,Partner,2013-01-10
+V-0233,P-0390,R. Pillai,Director,2021-11-23
+V-0234,P-0391,M. Sharma,Director,2024-07-21
+V-0234,P-0392,R. Nair,Director,2025-09-11
+V-0234,P-0393,S. Iyer,Director,2021-09-30
+V-0235,P-0394,K. Rao,Director,2023-11-12
+V-0236,P-0395,H. Menon,Director,2013-09-19
+V-0237,P-0396,H. Mishra,Director,2025-01-22
+V-0237,P-0397,V. Kulkarni,Partner,2022-12-31
+V-0238,P-0398,M. Nair,Director,2023-08-24
+V-0239,P-0399,N. Iyer,Director,2021-08-28
+V-0239,P-0400,T. Kulkarni,Authorised Signatory,2024-08-19
+V-0240,P-0401,G. Patil,Director,2021-03-24
+V-0209,P-0402,V. Menon,Director,2021-04-06
+V-0096,P-0402,V. Menon,Director,2019-04-10
+V-0053,P-0403,R. Kulkarni,Director,2021-07-03
+V-0102,P-0403,R. Kulkarni,Director,2019-04-30
+V-0229,P-0403,R. Kulkarni,Director,2019-01-09
+V-0033,P-0403,R. Kulkarni,Director,2020-02-24
+V-0128,P-0404,A. Mishra,Director,2021-01-24
+V-0187,P-0404,A. Mishra,Director,2019-01-24
+V-S001,P-0405,K. Shetty,Director,2026-07-05
+V-S001,P-0406,T. Patil,Authorised Signatory,2026-05-22
+V-S002,P-0407,S. Reddy,Director,2025-04-23
+V-S002,P-0408,T. Mishra,Authorised Signatory,2026-06-18
+V-S002,P-0409,P. Mishra,Partner,2025-09-16
+V-S003,P-0410,P. Rao,Director,2024-12-21
+V-S003,P-0411,S. Pillai,Authorised Signatory,2026-08-16
+V-S004,P-0412,G. Kulkarni,Director,2024-10-31
+V-S005,P-0413,P. Bhat,Director,2025-07-20
+V-S006,P-0414,A. Sharma,Director,2025-11-08
+V-S007,P-0415,H. Rao,Director,2026-02-25
+V-S007,P-0416,B. Kulkarni,Partner,2026-01-13
+V-S008,P-0417,T. Kamath,Director,2026-08-08
+V-S008,P-0418,N. Patil,Partner,2026-01-01
+V-S009,P-0419,D. Desai,Director,2024-10-02
+V-S010,P-0420,P. Joshi,Director,2026-05-08
+V-Y001,P-0421,N. Desai,Director,2026-04-28
+V-Y001,P-0422,V. Naik,Authorised Signatory,2026-04-29
+V-Y002,P-0423,S. Gowda,Director,2026-07-20
+V-Y002,P-0424,D. Desai,Partner,2026-01-14
+V-Y002,P-0425,G. Pillai,Partner,2025-08-29
+V-Y003,P-0426,A. Bhat,Director,2026-04-01
+V-Y003,P-0427,A. Kulkarni,Partner,2025-01-09
+V-Y004,P-0428,G. Joshi,Director,2025-10-16
+V-Y004,P-0429,G. Reddy,Authorised Signatory,2026-02-06
+V-Y004,P-0430,N. Desai,Partner,2026-02-23
+V-Y005,P-0431,P. Iyer,Director,2025-05-11
+V-Y005,P-0432,A. Menon,Director,2026-02-14
+V-Y006,P-0433,M. Kamath,Director,2025-09-26
+V-Y007,P-0434,R. Rao,Director,2025-06-23
+V-Y007,P-0435,H. Mehta,Partner,2025-07-17
+V-Y008,P-0436,A. Patil,Director,2025-11-06
+V-Y008,P-0437,B. Kamath,Director,2026-09-07
+V-SPV01,P-0438,A. Iyer,Director,2025-11-12
+V-SPV01,P-0439,P. Naik,Director,2025-05-20
+V-SPV01,P-0440,A. Kulkarni,Director,2025-11-23

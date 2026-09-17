@@ -1,0 +1,5 @@
+entry_id,kind,value,reason,added_by,added_on,expires_on
+SUP-001,bank_account,ACCT-INTERMED-77001,Registered invoice-discounting intermediary; many unrelated vendors route receipts here,audit.admin,2026-01-12,2027-01-12
+SUP-002,address_building,ADDR-BLD-9001,Commercial business centre hosting hundreds of registrations,audit.admin,2026-02-02,2027-02-02
+SUP-003,email,filings@sahaytaconsultants.example,Filing consultant used by many small firms,audit.admin,2026-02-02,2027-02-02
+SUP-004,phone,9008811220,Filing consultant contact number,audit.admin,2026-02-02,2027-02-02

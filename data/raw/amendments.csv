@@ -1,0 +1,303 @@
+amendment_id,contract_id,tender_id,date,previous_value,new_value,reason_code,approval_reference,description
+C-0007-AM1,C-0007,T-0007,2026-11-30,22098604.21,23569165.18,price_variation_clause,,Price variation clause
+C-0009-AM1,C-0009,T-0009,2023-05-30,23992240.06,28295193.29,time_extension_cost,,Time extension cost
+C-0011-AM1,C-0011,T-0011,2024-04-01,7336232.15,7704551.61,scope_change_approved,APR/8905,Scope change approved
+C-0011-AM2,C-0011,T-0011,2024-05-20,7704551.61,8091362.74,time_extension_cost,,Time extension cost
+C-0019-AM1,C-0019,T-0019,2026-09-18,5150804.12,5326580.7,scope_change_approved,APR/9681,Scope change approved
+C-0019-AM2,C-0019,T-0019,2026-10-06,5326580.7,5508355.84,site_condition_change,,Site condition change
+C-0021-AM1,C-0021,T-0021,2024-03-16,6498408.31,6836505.92,site_condition_change,,Site condition change
+C-0021-AM2,C-0021,T-0021,2024-05-01,6836505.92,7192193.98,site_condition_change,,Site condition change
+C-0027-AM1,C-0027,T-0027,2025-07-27,3939673.51,4161431.43,scope_change_approved,APR/7761,Scope change approved
+C-0027-AM2,C-0027,T-0027,2025-09-01,4161431.43,4395671.75,time_extension_cost,,Time extension cost
+C-0027-AM3,C-0027,T-0027,2025-10-05,4395671.75,4643097.09,additional_quantities,,Additional quantities
+C-0029-AM1,C-0029,T-0029,2026-10-12,5358296.53,5645672.51,site_condition_change,,Site condition change
+C-0031-AM1,C-0031,T-0031,2025-04-11,12537879.37,13161750.7,additional_quantities,,Additional quantities
+C-0031-AM2,C-0031,T-0031,2025-07-02,13161750.7,13816665.2,site_condition_change,,Site condition change
+C-0031-AM3,C-0031,T-0031,2025-08-22,13816665.2,14504167.53,price_variation_clause,,Price variation clause
+C-0032-AM1,C-0032,T-0032,2023-02-17,2445466.94,2573462.87,additional_quantities,,Additional quantities
+C-0032-AM2,C-0032,T-0032,2023-02-13,2573462.87,2708158.13,site_condition_change,,Site condition change
+C-0032-AM3,C-0032,T-0032,2023-04-30,2708158.13,2849903.34,price_variation_clause,,Price variation clause
+C-0033-AM1,C-0033,T-0033,2025-12-10,1694551.5,1828075.54,price_variation_clause,,Price variation clause
+C-0041-AM1,C-0041,T-0041,2023-09-06,6594692.85,7492595.11,price_variation_clause,,Price variation clause
+C-0042-AM1,C-0042,T-0042,2023-05-29,2707176.87,3062196.95,additional_quantities,,Additional quantities
+C-0044-AM1,C-0044,T-0044,2026-12-01,8138456.92,8791331.89,price_variation_clause,,Price variation clause
+C-0057-AM1,C-0057,T-0057,2025-03-23,2955739.26,3074108.83,site_condition_change,,Site condition change
+C-0057-AM2,C-0057,T-0057,2025-03-13,3074108.83,3197218.8,scope_change_approved,APR/3721,Scope change approved
+C-0057-AM3,C-0057,T-0057,2025-06-28,3197218.8,3325259.0,site_condition_change,,Site condition change
+C-0066-AM1,C-0066,T-0066,2023-12-21,9433146.07,11038823.68,additional_quantities,,Additional quantities
+C-0071-AM1,C-0071,T-0071,2024-08-17,4671397.3,5021168.47,time_extension_cost,,Time extension cost
+C-0071-AM2,C-0071,T-0071,2024-07-31,5021168.47,5397128.78,site_condition_change,,Site condition change
+C-0072-AM1,C-0072,T-0072,2026-02-09,6444516.87,6859673.8,time_extension_cost,,Time extension cost
+C-0081-AM1,C-0081,T-0081,2023-04-26,4179031.97,4810696.26,additional_quantities,,Additional quantities
+C-0089-AM1,C-0089,T-0089,2024-03-19,5214010.32,5878224.19,scope_change_approved,APR/5738,Scope change approved
+C-0101-AM1,C-0101,T-0101,2025-03-28,4764473.33,5018158.34,time_extension_cost,,Time extension cost
+C-0101-AM2,C-0101,T-0101,2025-06-11,5018158.34,5285350.85,site_condition_change,,Site condition change
+C-0105-AM1,C-0105,T-0105,2023-08-09,11228980.34,12104498.07,scope_change_approved,APR/4056,Scope change approved
+C-0105-AM2,C-0105,T-0105,2023-10-10,12104498.07,13048279.45,time_extension_cost,,Time extension cost
+C-0112-AM1,C-0112,T-0112,2024-04-21,15596036.79,17163533.0,time_extension_cost,,Time extension cost
+C-0119-AM1,C-0119,T-0119,2024-01-06,3443046.49,3808443.8,price_variation_clause,,Price variation clause
+C-0121-AM1,C-0121,T-0121,2024-01-02,13138162.76,13833483.54,scope_change_approved,APR/8068,Scope change approved
+C-0121-AM2,C-0121,T-0121,2024-01-08,13833483.54,14565603.31,price_variation_clause,,Price variation clause
+C-0121-AM3,C-0121,T-0121,2024-02-23,14565603.31,15336469.59,time_extension_cost,,Time extension cost
+C-0129-AM1,C-0129,T-0129,2023-04-24,7735104.52,8033752.62,additional_quantities,,Additional quantities
+C-0129-AM2,C-0129,T-0129,2023-08-21,8033752.62,8343931.35,scope_change_approved,APR/4342,Scope change approved
+C-0129-AM3,C-0129,T-0129,2023-09-24,8343931.35,8666085.92,scope_change_approved,APR/2918,Scope change approved
+C-0131-AM1,C-0131,T-0131,2025-02-06,4012245.52,4338624.35,additional_quantities,,Additional quantities
+C-0133-AM1,C-0133,T-0133,2026-05-08,8695578.54,8868454.89,additional_quantities,,Additional quantities
+C-0133-AM2,C-0133,T-0133,2026-04-22,8868454.89,9044768.19,additional_quantities,,Additional quantities
+C-0133-AM3,C-0133,T-0133,2026-04-16,9044768.19,9224586.77,scope_change_approved,APR/5884,Scope change approved
+C-0135-AM1,C-0135,T-0135,2025-03-12,1088038.08,1188113.36,price_variation_clause,,Price variation clause
+C-0137-AM1,C-0137,T-0137,2026-07-04,14490611.71,15635852.36,time_extension_cost,,Time extension cost
+C-0137-AM2,C-0137,T-0137,2026-07-27,15635852.36,16871605.13,site_condition_change,,Site condition change
+C-0139-AM1,C-0139,T-0139,2025-05-05,7285162.35,7777560.81,scope_change_approved,APR/6665,Scope change approved
+C-0139-AM2,C-0139,T-0139,2025-05-23,7777560.81,8303240.1,site_condition_change,,Site condition change
+C-0148-AM1,C-0148,T-0148,2025-06-29,4208080.66,4573090.17,site_condition_change,,Site condition change
+C-0153-AM1,C-0153,T-0153,2024-01-12,1523007.59,1711245.3,price_variation_clause,,Price variation clause
+C-0173-AM1,C-0173,T-0173,2026-05-30,6402563.02,6575818.96,additional_quantities,,Additional quantities
+C-0173-AM2,C-0173,T-0173,2026-08-31,6575818.96,6753763.28,site_condition_change,,Site condition change
+C-0173-AM3,C-0173,T-0173,2026-08-14,6753763.28,6936522.84,time_extension_cost,,Time extension cost
+C-0181-AM1,C-0181,T-0181,2025-07-07,1153421.0,1300484.22,time_extension_cost,,Time extension cost
+C-0182-AM1,C-0182,T-0182,2023-03-30,10452496.85,11948342.14,time_extension_cost,,Time extension cost
+C-0184-AM1,C-0184,T-0184,2026-10-07,5610188.43,5716043.16,additional_quantities,,Additional quantities
+C-0184-AM2,C-0184,T-0184,2026-08-30,5716043.16,5823895.19,time_extension_cost,,Time extension cost
+C-0184-AM3,C-0184,T-0184,2026-12-02,5823895.19,5933782.2,price_variation_clause,,Price variation clause
+C-0185-AM1,C-0185,T-0185,2023-11-19,9654689.83,10759523.5,scope_change_approved,APR/3315,Scope change approved
+C-0195-AM1,C-0195,T-0195,2023-12-31,2731843.76,3159481.54,site_condition_change,,Site condition change
+C-0202-AM1,C-0202,T-0202,2024-09-25,30096475.54,33558886.67,additional_quantities,,Additional quantities
+C-0210-AM1,C-0210,T-0210,2023-03-10,7968435.72,8835842.33,site_condition_change,,Site condition change
+C-0214-AM1,C-0214,T-0214,2024-02-17,19381456.54,20529975.02,price_variation_clause,,Price variation clause
+C-0214-AM2,C-0214,T-0214,2024-03-01,20529975.02,21746553.14,additional_quantities,,Additional quantities
+C-0219-AM1,C-0219,T-0219,2024-11-22,12280745.3,13547808.78,price_variation_clause,,Price variation clause
+C-0224-AM1,C-0224,T-0224,2025-02-13,3325365.36,3471142.52,time_extension_cost,,Time extension cost
+C-0224-AM2,C-0224,T-0224,2025-04-05,3471142.52,3623310.24,price_variation_clause,,Price variation clause
+C-0232-AM1,C-0232,T-0232,2026-05-25,2031352.88,2153111.96,site_condition_change,,Site condition change
+C-0232-AM2,C-0232,T-0232,2025-12-21,2153111.96,2282169.27,time_extension_cost,,Time extension cost
+C-0239-AM1,C-0239,T-0239,2025-05-10,2999856.89,3221653.47,price_variation_clause,,Price variation clause
+C-0239-AM2,C-0239,T-0239,2025-07-07,3221653.47,3459848.74,site_condition_change,,Site condition change
+C-0241-AM1,C-0241,T-0241,2024-03-09,1337546.76,1375298.72,time_extension_cost,,Time extension cost
+C-0241-AM2,C-0241,T-0241,2024-01-11,1375298.72,1414116.22,price_variation_clause,,Price variation clause
+C-0243-AM1,C-0243,T-0243,2026-10-31,7109794.19,8265392.55,price_variation_clause,,Price variation clause
+C-0265-AM1,C-0265,T-0265,2026-02-12,8044525.02,9208520.17,price_variation_clause,,Price variation clause
+C-0273-AM1,C-0273,T-0273,2025-03-17,4058279.38,4516808.21,time_extension_cost,,Time extension cost
+C-0275-AM1,C-0275,T-0275,2023-12-09,11389920.34,11684567.69,site_condition_change,,Site condition change
+C-0275-AM2,C-0275,T-0275,2024-02-16,11684567.69,11986837.3,additional_quantities,,Additional quantities
+C-0275-AM3,C-0275,T-0275,2024-05-20,11986837.3,12296926.37,price_variation_clause,,Price variation clause
+C-0280-AM1,C-0280,T-0280,2026-02-22,5888095.63,6769177.82,additional_quantities,,Additional quantities
+C-0291-AM1,C-0291,T-0291,2025-10-29,6372264.89,6731586.61,scope_change_approved,APR/9423,Scope change approved
+C-0291-AM2,C-0291,T-0291,2025-10-24,6731586.61,7111169.9,price_variation_clause,,Price variation clause
+C-0291-AM3,C-0291,T-0291,2025-12-11,7111169.9,7512157.28,additional_quantities,,Additional quantities
+C-0292-AM1,C-0292,T-0292,2026-06-05,5655459.1,5912030.41,scope_change_approved,APR/3361,Scope change approved
+C-0292-AM2,C-0292,T-0292,2026-06-02,5912030.41,6180241.59,scope_change_approved,APR/7108,Scope change approved
+C-0292-AM3,C-0292,T-0292,2026-04-24,6180241.59,6460620.71,site_condition_change,,Site condition change
+C-0298-AM1,C-0298,T-0298,2026-05-04,3672362.54,4020360.48,scope_change_approved,APR/5625,Scope change approved
+C-0304-AM1,C-0304,T-0304,2025-01-28,1096242.82,1258589.94,price_variation_clause,,Price variation clause
+C-0306-AM1,C-0306,T-0306,2025-04-28,3653150.42,3762078.58,additional_quantities,,Additional quantities
+C-0306-AM2,C-0306,T-0306,2025-05-22,3762078.58,3874254.72,time_extension_cost,,Time extension cost
+C-0313-AM1,C-0313,T-0313,2026-06-20,1629901.17,1761559.93,scope_change_approved,APR/5769,Scope change approved
+C-0334-AM1,C-0334,T-0334,2023-12-20,46688082.18,49903240.31,additional_quantities,,Additional quantities
+C-0334-AM2,C-0334,T-0334,2023-12-24,49903240.31,53339809.16,scope_change_approved,APR/1979,Scope change approved
+C-0342-AM1,C-0342,T-0342,2025-08-17,29855430.29,34470438.86,price_variation_clause,,Price variation clause
+C-0343-AM1,C-0343,T-0343,2025-03-01,14650153.91,16636231.22,scope_change_approved,APR/2802,Scope change approved
+C-0354-AM1,C-0354,T-0354,2024-02-28,10299252.81,10952465.42,scope_change_approved,APR/3518,Scope change approved
+C-0357-AM1,C-0357,T-0357,2024-11-16,10499426.93,11493884.44,time_extension_cost,,Time extension cost
+C-0374-AM1,C-0374,T-0374,2025-07-09,3308121.83,3725350.63,price_variation_clause,,Price variation clause
+C-0381-AM1,C-0381,T-0381,2026-09-03,12681382.95,13012985.6,additional_quantities,,Additional quantities
+C-0381-AM2,C-0381,T-0381,2026-11-15,13012985.6,13353259.25,time_extension_cost,,Time extension cost
+C-0381-AM3,C-0381,T-0381,2026-12-19,13353259.25,13702430.65,price_variation_clause,,Price variation clause
+C-0383-AM1,C-0383,T-0383,2025-03-03,12334751.22,12698596.42,price_variation_clause,,Price variation clause
+C-0383-AM2,C-0383,T-0383,2025-04-02,12698596.42,13073174.16,additional_quantities,,Additional quantities
+C-0383-AM3,C-0383,T-0383,2025-04-12,13073174.16,13458801.04,site_condition_change,,Site condition change
+C-0387-AM1,C-0387,T-0387,2023-08-16,1860253.46,1932256.8,additional_quantities,,Additional quantities
+C-0387-AM2,C-0387,T-0387,2023-06-19,1932256.8,2007047.13,price_variation_clause,,Price variation clause
+C-0393-AM1,C-0393,T-0393,2026-03-21,40363867.49,42548317.73,scope_change_approved,APR/2475,Scope change approved
+C-0393-AM2,C-0393,T-0393,2026-04-18,42548317.73,44850988.13,time_extension_cost,,Time extension cost
+C-0393-AM3,C-0393,T-0393,2026-06-07,44850988.13,47278276.65,price_variation_clause,,Price variation clause
+C-0396-AM1,C-0396,T-0396,2025-08-27,11579388.7,13428635.74,time_extension_cost,,Time extension cost
+C-0406-AM1,C-0406,T-0406,2024-12-19,7869040.99,8426984.44,additional_quantities,,Additional quantities
+C-0406-AM2,C-0406,T-0406,2025-04-26,8426984.44,9024488.11,additional_quantities,,Additional quantities
+C-0411-AM1,C-0411,T-0411,2024-12-09,9873000.85,11339146.59,time_extension_cost,,Time extension cost
+C-0428-AM1,C-0428,T-0428,2024-10-02,4482757.33,4605708.28,additional_quantities,,Additional quantities
+C-0428-AM2,C-0428,T-0428,2024-12-06,4605708.28,4732031.48,time_extension_cost,,Time extension cost
+C-0428-AM3,C-0428,T-0428,2024-10-19,4732031.48,4861819.41,site_condition_change,,Site condition change
+C-0436-AM1,C-0436,T-0436,2025-03-04,3089573.26,3358044.78,additional_quantities,,Additional quantities
+C-0457-AM1,C-0457,T-0457,2024-12-23,8994746.61,9625556.86,time_extension_cost,,Time extension cost
+C-0458-AM1,C-0458,T-0458,2026-12-05,1343048.17,1444708.19,additional_quantities,,Additional quantities
+C-0461-AM1,C-0461,T-0461,2025-02-16,3288500.75,3707516.05,scope_change_approved,APR/3641,Scope change approved
+C-0464-AM1,C-0464,T-0464,2023-09-12,10368815.83,10842978.19,site_condition_change,,Site condition change
+C-0464-AM2,C-0464,T-0464,2023-10-24,10842978.19,11338823.82,time_extension_cost,,Time extension cost
+C-0464-AM3,C-0464,T-0464,2023-10-21,11338823.82,11857344.3,time_extension_cost,,Time extension cost
+C-0470-AM1,C-0470,T-0470,2023-07-10,761180.37,798921.08,scope_change_approved,APR/6902,Scope change approved
+C-0470-AM2,C-0470,T-0470,2023-08-10,798921.08,838533.05,scope_change_approved,APR/9466,Scope change approved
+C-0482-AM1,C-0482,T-0482,2023-02-23,4502033.23,4689469.01,scope_change_approved,APR/4420,Scope change approved
+C-0482-AM2,C-0482,T-0482,2023-05-28,4689469.01,4884708.42,price_variation_clause,,Price variation clause
+C-0482-AM3,C-0482,T-0482,2023-04-24,4884708.42,5088076.34,price_variation_clause,,Price variation clause
+C-0489-AM1,C-0489,T-0489,2025-04-29,4872818.26,4973776.91,time_extension_cost,,Time extension cost
+C-0489-AM2,C-0489,T-0489,2025-02-22,4973776.91,5076827.29,price_variation_clause,,Price variation clause
+C-0489-AM3,C-0489,T-0489,2025-01-28,5076827.29,5182012.75,scope_change_approved,APR/9226,Scope change approved
+C-0505-AM1,C-0505,T-0505,2025-05-31,5035114.6,5349745.53,price_variation_clause,,Price variation clause
+C-0505-AM2,C-0505,T-0505,2025-05-20,5349745.53,5684036.91,site_condition_change,,Site condition change
+C-0510-AM1,C-0510,T-0510,2025-11-06,3451655.09,3870323.64,site_condition_change,,Site condition change
+C-0514-AM1,C-0514,T-0514,2024-03-02,6976334.53,7777801.56,price_variation_clause,,Price variation clause
+C-0516-AM1,C-0516,T-0516,2024-01-28,2203821.47,2383945.93,site_condition_change,,Site condition change
+C-0543-AM1,C-0543,T-0543,2024-05-05,8793359.65,8992444.74,time_extension_cost,,Time extension cost
+C-0543-AM2,C-0543,T-0543,2024-04-26,8992444.74,9196037.2,site_condition_change,,Site condition change
+C-0543-AM3,C-0543,T-0543,2024-08-02,9196037.2,9404239.07,site_condition_change,,Site condition change
+C-0545-AM1,C-0545,T-0545,2023-12-22,1100954.65,1176082.18,site_condition_change,,Site condition change
+C-0545-AM2,C-0545,T-0545,2023-12-03,1176082.18,1256336.3,additional_quantities,,Additional quantities
+C-0547-AM1,C-0547,T-0547,2025-10-05,9892437.15,10403134.36,scope_change_approved,APR/2940,Scope change approved
+C-0547-AM2,C-0547,T-0547,2025-10-12,10403134.36,10940196.33,additional_quantities,,Additional quantities
+C-0547-AM3,C-0547,T-0547,2025-12-08,10940196.33,11504984.12,time_extension_cost,,Time extension cost
+C-0556-AM1,C-0556,T-0556,2023-06-07,4330558.92,4563567.91,time_extension_cost,,Time extension cost
+C-0558-AM1,C-0558,T-0558,2024-05-25,8507326.97,8977194.22,site_condition_change,,Site condition change
+C-0558-AM2,C-0558,T-0558,2024-10-24,8977194.22,9473012.66,time_extension_cost,,Time extension cost
+C-0558-AM3,C-0558,T-0558,2024-05-13,9473012.66,9996215.59,time_extension_cost,,Time extension cost
+C-0560-AM1,C-0560,T-0560,2026-06-14,2300462.72,2455607.71,scope_change_approved,APR/9089,Scope change approved
+C-0560-AM2,C-0560,T-0560,2026-05-29,2455607.71,2621215.81,scope_change_approved,APR/9924,Scope change approved
+C-0584-AM1,C-0584,T-0584,2023-04-15,837672.58,905781.86,additional_quantities,,Additional quantities
+C-0586-AM1,C-0586,T-0586,2026-09-02,13638952.63,14276220.38,scope_change_approved,APR/1444,Scope change approved
+C-0586-AM2,C-0586,T-0586,2026-08-25,14276220.38,14943263.88,site_condition_change,,Site condition change
+C-0586-AM3,C-0586,T-0586,2026-09-15,14943263.88,15641474.4,price_variation_clause,,Price variation clause
+C-0590-AM1,C-0590,T-0590,2025-10-31,4190083.97,4406232.41,scope_change_approved,APR/3760,Scope change approved
+C-0590-AM2,C-0590,T-0590,2025-10-27,4406232.41,4633531.02,time_extension_cost,,Time extension cost
+C-0590-AM3,C-0590,T-0590,2025-12-05,4633531.02,4872554.99,scope_change_approved,APR/9840,Scope change approved
+C-0597-AM1,C-0597,T-0597,2023-11-14,690253.67,740977.55,time_extension_cost,,Time extension cost
+C-0597-AM2,C-0597,T-0597,2024-05-09,740977.55,795428.93,site_condition_change,,Site condition change
+C-0601-AM1,C-0601,T-0601,2026-04-15,18836510.17,19752019.96,site_condition_change,,Site condition change
+C-0601-AM2,C-0601,T-0601,2026-06-20,19752019.96,20712026.23,time_extension_cost,,Time extension cost
+C-0603-AM1,C-0603,T-0603,2025-04-28,6318959.88,7351659.85,scope_change_approved,APR/9361,Scope change approved
+C-0617-AM1,C-0617,T-0617,2023-05-05,54883334.76,57946145.54,additional_quantities,,Additional quantities
+C-0617-AM2,C-0617,T-0617,2023-06-15,57946145.54,61179879.05,price_variation_clause,,Price variation clause
+C-0617-AM3,C-0617,T-0617,2023-06-17,61179879.05,64594073.79,site_condition_change,,Site condition change
+C-0625-AM1,C-0625,T-0625,2026-01-21,7487316.57,8065822.04,time_extension_cost,,Time extension cost
+C-0627-AM1,C-0627,T-0627,2026-04-30,5014055.67,5507418.28,price_variation_clause,,Price variation clause
+C-0629-AM1,C-0629,T-0629,2026-06-07,6751412.67,7274080.23,additional_quantities,,Additional quantities
+C-0652-AM1,C-0652,T-0652,2024-05-26,5559229.75,5901665.55,time_extension_cost,,Time extension cost
+C-0653-AM1,C-0653,T-0653,2026-07-04,27299619.64,28965159.79,site_condition_change,,Site condition change
+C-0653-AM2,C-0653,T-0653,2026-09-16,28965159.79,30732313.96,site_condition_change,,Site condition change
+C-0657-AM1,C-0657,T-0657,2024-09-11,4680745.69,4819416.64,additional_quantities,,Additional quantities
+C-0657-AM2,C-0657,T-0657,2024-10-19,4819416.64,4962195.84,time_extension_cost,,Time extension cost
+C-0670-AM1,C-0670,T-0670,2025-02-06,2012387.6,2172274.86,scope_change_approved,APR/5751,Scope change approved
+C-0670-AM2,C-0670,T-0670,2025-02-14,2172274.86,2344865.41,time_extension_cost,,Time extension cost
+C-0671-AM1,C-0671,T-0671,2023-11-16,11264643.83,12779967.93,scope_change_approved,APR/3892,Scope change approved
+C-0680-AM1,C-0680,T-0680,2026-01-30,3304368.04,3635366.68,price_variation_clause,,Price variation clause
+C-0682-AM1,C-0682,T-0682,2026-05-14,7377862.2,7824040.15,site_condition_change,,Site condition change
+C-0682-AM2,C-0682,T-0682,2026-06-24,7824040.15,8297200.82,additional_quantities,,Additional quantities
+C-0685-AM1,C-0685,T-0685,2024-04-23,8406024.49,9700075.04,scope_change_approved,APR/7544,Scope change approved
+C-0703-AM1,C-0703,T-0703,2024-10-31,517595.6,542611.79,price_variation_clause,,Price variation clause
+C-0703-AM2,C-0703,T-0703,2024-12-02,542611.79,568837.05,price_variation_clause,,Price variation clause
+C-0703-AM3,C-0703,T-0703,2024-12-24,568837.05,596329.82,scope_change_approved,APR/3057,Scope change approved
+C-0707-AM1,C-0707,T-0707,2024-01-15,9658306.68,10221235.86,price_variation_clause,,Price variation clause
+C-0707-AM2,C-0707,T-0707,2024-02-08,10221235.86,10816975.05,price_variation_clause,,Price variation clause
+C-0707-AM3,C-0707,T-0707,2024-03-29,10816975.05,11447436.59,site_condition_change,,Site condition change
+C-0708-AM1,C-0708,T-0708,2023-08-10,6282720.72,7255679.57,additional_quantities,,Additional quantities
+C-0710-AM1,C-0710,T-0710,2025-04-08,2020633.01,2194680.72,site_condition_change,,Site condition change
+C-0715-AM1,C-0715,T-0715,2024-01-05,6034950.15,6404411.88,time_extension_cost,,Time extension cost
+C-0721-AM1,C-0721,T-0721,2025-02-21,2269369.44,2387008.25,additional_quantities,,Additional quantities
+C-0734-AM1,C-0734,T-0734,2025-09-16,511380.7,547468.32,time_extension_cost,,Time extension cost
+C-0734-AM2,C-0734,T-0734,2025-11-03,547468.32,586102.6,price_variation_clause,,Price variation clause
+C-0735-AM1,C-0735,T-0735,2024-06-03,1828695.1,1949527.48,scope_change_approved,APR/4025,Scope change approved
+C-0737-AM1,C-0737,T-0737,2026-05-01,2359537.45,2625805.54,site_condition_change,,Site condition change
+C-0745-AM1,C-0745,T-0745,2024-06-29,4336814.17,4542745.01,site_condition_change,,Site condition change
+C-0745-AM2,C-0745,T-0745,2024-07-29,4542745.01,4758454.34,scope_change_approved,APR/7790,Scope change approved
+C-0745-AM3,C-0745,T-0745,2024-10-26,4758454.34,4984406.49,additional_quantities,,Additional quantities
+C-0751-AM1,C-0751,T-0751,2024-05-21,48799334.74,51355848.11,additional_quantities,,Additional quantities
+C-0753-AM1,C-0753,T-0753,2026-05-28,5632008.72,5795464.06,site_condition_change,,Site condition change
+C-0753-AM2,C-0753,T-0753,2026-07-10,5795464.06,5963663.31,additional_quantities,,Additional quantities
+C-0753-AM3,C-0753,T-0753,2026-07-29,5963663.31,6136744.12,additional_quantities,,Additional quantities
+C-0754-AM1,C-0754,T-0754,2023-07-29,49715910.95,55080032.26,additional_quantities,,Additional quantities
+C-0756-AM1,C-0756,T-0756,2025-05-03,61611150.96,64849088.51,time_extension_cost,,Time extension cost
+C-0756-AM2,C-0756,T-0756,2025-06-03,64849088.51,68257193.96,price_variation_clause,,Price variation clause
+C-0756-AM3,C-0756,T-0756,2025-08-02,68257193.96,71844410.38,scope_change_approved,APR/1207,Scope change approved
+C-0765-AM1,C-0765,T-0765,2024-05-07,44025967.79,45786923.92,time_extension_cost,,Time extension cost
+C-0765-AM2,C-0765,T-0765,2024-07-01,45786923.92,47618314.99,price_variation_clause,,Price variation clause
+C-0765-AM3,C-0765,T-0765,2024-07-29,47618314.99,49522958.28,site_condition_change,,Site condition change
+C-0772-AM1,C-0772,T-0772,2023-07-02,10619604.75,11192621.32,price_variation_clause,,Price variation clause
+C-0772-AM2,C-0772,T-0772,2023-06-29,11192621.32,11796556.93,additional_quantities,,Additional quantities
+C-0772-AM3,C-0772,T-0772,2023-08-17,11796556.93,12433079.93,price_variation_clause,,Price variation clause
+C-0774-AM1,C-0774,T-0774,2023-02-17,3195926.7,3626672.03,site_condition_change,,Site condition change
+C-0788-AM1,C-0788,T-0788,2023-04-23,3159173.02,3252247.91,scope_change_approved,APR/1651,Scope change approved
+C-0788-AM2,C-0788,T-0788,2023-04-01,3252247.91,3348064.95,scope_change_approved,APR/4401,Scope change approved
+C-0788-AM3,C-0788,T-0788,2023-04-23,3348064.95,3446704.93,time_extension_cost,,Time extension cost
+C-0789-AM1,C-0789,T-0789,2023-02-26,4705130.46,4963155.03,scope_change_approved,APR/4255,Scope change approved
+C-0789-AM2,C-0789,T-0789,2023-05-28,4963155.03,5235329.4,site_condition_change,,Site condition change
+C-0789-AM3,C-0789,T-0789,2023-06-06,5235329.4,5522429.54,site_condition_change,,Site condition change
+C-0801-AM1,C-0801,T-0801,2024-02-08,11190434.34,11378801.92,scope_change_approved,APR/2037,Scope change approved
+C-0801-AM2,C-0801,T-0801,2024-04-13,11378801.92,11570340.28,site_condition_change,,Site condition change
+C-0801-AM3,C-0801,T-0801,2024-04-28,11570340.28,11765102.78,scope_change_approved,APR/9328,Scope change approved
+C-0819-AM1,C-0819,T-0819,2025-10-09,3007813.73,3458152.65,site_condition_change,,Site condition change
+C-0826-AM1,C-0826,T-0826,2026-02-19,2498542.09,2664625.89,additional_quantities,,Additional quantities
+C-0826-AM2,C-0826,T-0826,2026-03-23,2664625.89,2841749.66,site_condition_change,,Site condition change
+C-0830-AM1,C-0830,T-0830,2025-04-05,3961777.92,4434446.51,scope_change_approved,APR/2420,Scope change approved
+C-0833-AM1,C-0833,T-0833,2026-03-06,3963854.51,4229688.23,scope_change_approved,APR/8365,Scope change approved
+C-0833-AM2,C-0833,T-0833,2026-02-08,4229688.23,4513349.95,scope_change_approved,APR/2254,Scope change approved
+C-0840-AM1,C-0840,T-0840,2026-08-02,5447343.44,5652291.56,price_variation_clause,,Price variation clause
+C-0840-AM2,C-0840,T-0840,2026-09-22,5652291.56,5864950.55,time_extension_cost,,Time extension cost
+C-0840-AM3,C-0840,T-0840,2026-09-26,5864950.55,6085610.52,additional_quantities,,Additional quantities
+C-0841-AM1,C-0841,T-0841,2024-10-22,4037445.08,4241345.92,price_variation_clause,,Price variation clause
+C-0841-AM2,C-0841,T-0841,2024-11-06,4241345.92,4455544.25,site_condition_change,,Site condition change
+C-0841-AM3,C-0841,T-0841,2024-12-21,4455544.25,4680560.12,additional_quantities,,Additional quantities
+C-0844-AM1,C-0844,T-0844,2026-04-03,3082020.38,3163415.36,time_extension_cost,,Time extension cost
+C-0844-AM2,C-0844,T-0844,2026-06-08,3163415.36,3246959.95,price_variation_clause,,Price variation clause
+C-0844-AM3,C-0844,T-0844,2026-07-01,3246959.95,3332710.92,time_extension_cost,,Time extension cost
+C-0855-AM1,C-0855,T-0855,2025-12-06,13514261.13,14698664.41,additional_quantities,,Additional quantities
+C-0855-AM2,C-0855,T-0855,2026-01-05,14698664.41,15986869.97,time_extension_cost,,Time extension cost
+C-0856-AM1,C-0856,T-0856,2023-11-25,11412390.27,14869810.32,additional_quantities,,Additional quantities
+C-0859-AM1,C-0859,T-0859,2026-02-09,15290933.11,17830572.41,price_variation_clause,,Price variation clause
+C-0859-AM2,C-0859,T-0859,2026-03-11,17830572.41,20792015.14,time_extension_cost,,Time extension cost
+C-0861-AM1,C-0861,T-0861,2026-09-25,15341486.97,20734358.15,site_condition_change,,Site condition change
+C-0862-AM1,C-0862,T-0862,2024-12-10,15169736.59,20918966.63,price_variation_clause,,Price variation clause
+C-0864-AM1,C-0864,T-0864,2026-05-07,12197855.78,14425364.13,time_extension_cost,,Time extension cost
+C-0864-AM2,C-0864,T-0864,2026-06-06,14425364.13,17059648.36,site_condition_change,,Site condition change
+C-0865-AM1,C-0865,T-0865,2024-08-19,2223301.94,2441046.12,scope_change_approved,APR/7479,Scope change approved
+C-0865-AM2,C-0865,T-0865,2024-09-18,2441046.12,2680115.58,additional_quantities,,Additional quantities
+C-0867-AM1,C-0867,T-0867,2025-05-11,36212384.52,50156846.63,site_condition_change,,Site condition change
+C-0870-AM1,C-0870,T-0870,2024-07-02,24470142.09,27503705.69,price_variation_clause,,Price variation clause
+C-0870-AM2,C-0870,T-0870,2024-08-01,27503705.69,30913340.17,additional_quantities,,Additional quantities
+C-0871-AM1,C-0871,T-0871,2023-09-25,9627686.19,12772388.41,time_extension_cost,,Time extension cost
+C-0873-AM1,C-0873,T-0873,2024-02-28,10589193.14,12563130.42,additional_quantities,,Additional quantities
+C-0875-AM1,C-0875,T-0875,2024-06-27,32761119.07,35062191.27,scope_change_approved,APR/3692,Scope change approved
+C-0875-AM2,C-0875,T-0875,2024-07-27,35062191.27,37524885.96,price_variation_clause,,Price variation clause
+C-0875-AM3,C-0875,T-0875,2024-08-26,37524885.96,40160555.15,additional_quantities,,Additional quantities
+C-0878-AM1,C-0878,T-0878,2025-01-10,3951509.47,4404407.69,additional_quantities,,Additional quantities
+C-0878-AM2,C-0878,T-0878,2025-02-09,4404407.69,4909214.37,scope_change_approved,APR/9801,Scope change approved
+C-0881-AM1,C-0881,T-0881,2024-01-01,1007903.02,1204322.92,additional_quantities,,Additional quantities
+C-0882-AM1,C-0882,T-0882,2024-05-30,2538234.3,3562709.91,time_extension_cost,,Time extension cost
+C-0896-AM1,C-0896,T-0896,2025-07-11,1329530.01,1439538.53,scope_change_approved,APR/5024,Scope change approved
+C-0896-AM2,C-0896,T-0896,2025-08-06,1439538.53,1558649.41,site_condition_change,,Site condition change
+C-0896-AM3,C-0896,T-0896,2025-08-06,1558649.41,1687615.82,site_condition_change,,Site condition change
+C-0897-AM1,C-0897,T-0897,2024-10-08,5347227.32,7198995.6,scope_change_approved,APR/7526,Scope change approved
+C-0901-AM1,C-0901,T-0901,2026-05-17,5395083.08,5833291.71,scope_change_approved,APR/5248,Scope change approved
+C-0901-AM2,C-0901,T-0901,2026-03-05,5833291.71,6307093.27,site_condition_change,,Site condition change
+C-0901-AM3,C-0901,T-0901,2026-07-23,6307093.27,6819378.75,additional_quantities,,Additional quantities
+C-0902-AM1,C-0902,T-0902,2025-05-09,7073341.94,7592834.46,time_extension_cost,,Time extension cost
+C-0902-AM2,C-0902,T-0902,2025-06-22,7592834.46,8150480.44,scope_change_approved,APR/6158,Scope change approved
+C-0902-AM3,C-0902,T-0902,2025-08-30,8150480.44,8749082.01,additional_quantities,,Additional quantities
+C-0907-AM1,C-0907,T-0907,2025-12-14,3941045.45,4721588.05,additional_quantities,,Additional quantities
+C-0908-AM1,C-0908,T-0908,2024-05-16,5781652.12,7053582.23,time_extension_cost,,Time extension cost
+C-0910-AM1,C-0910,T-0910,2024-09-11,4969530.56,5520785.7,time_extension_cost,,Time extension cost
+C-0910-AM2,C-0910,T-0910,2024-09-26,5520785.7,6133189.93,site_condition_change,,Site condition change
+C-0910-AM3,C-0910,T-0910,2024-12-26,6133189.93,6813526.32,site_condition_change,,Site condition change
+C-0914-AM1,C-0914,T-0914,2026-12-21,4641783.26,5112781.48,additional_quantities,,Additional quantities
+C-0914-AM2,C-0914,T-0914,2026-12-26,5112781.48,5631571.52,price_variation_clause,,Price variation clause
+C-0914-AM3,C-0914,T-0914,2027-03-10,5631571.52,6203002.8,time_extension_cost,,Time extension cost
+C-0915-AM1,C-0915,T-0915,2025-12-18,3933673.15,5102905.64,site_condition_change,,Site condition change
+C-0916-AM1,C-0916,T-0916,2024-02-18,4025096.99,4596177.02,time_extension_cost,,Time extension cost
+C-0916-AM2,C-0916,T-0916,2024-03-03,4596177.02,5248281.77,time_extension_cost,,Time extension cost
+C-0919-AM1,C-0919,T-0919,2024-09-02,2248255.76,2293048.17,additional_quantities,,Additional quantities
+C-0919-AM2,C-0919,T-0919,2024-09-28,2293048.17,2338732.99,time_extension_cost,,Time extension cost
+C-0919-AM3,C-0919,T-0919,2024-09-24,2338732.99,2385327.99,site_condition_change,,Site condition change
+C-0920-AM1,C-0920,T-0920,2024-10-29,1139151.76,1330631.42,site_condition_change,,Site condition change
+C-0926-AM1,C-0926,T-0926,2025-03-01,874804.31,922038.6,time_extension_cost,,Time extension cost
+C-0932-AM1,C-0932,T-0932,2026-05-22,1532085.99,1747774.85,site_condition_change,,Site condition change
+C-0933-AM1,C-0933,T-0933,2024-11-14,951005.47,1003245.96,additional_quantities,,Additional quantities
+C-0933-AM2,C-0933,T-0933,2024-10-26,1003245.96,1058356.12,price_variation_clause,,Price variation clause
+C-0933-AM3,C-0933,T-0933,2024-09-24,1058356.12,1116493.59,site_condition_change,,Site condition change
+C-0936-AM1,C-0936,T-0936,2025-02-10,460063.53,485710.62,scope_change_approved,APR/5811,Scope change approved
+C-0936-AM2,C-0936,T-0936,2025-03-01,485710.62,512787.45,site_condition_change,,Site condition change
+C-0936-AM3,C-0936,T-0936,2025-05-20,512787.45,541373.74,price_variation_clause,,Price variation clause
+C-0939-AM1,C-0939,T-0939,2025-12-15,3461482.24,3796873.12,price_variation_clause,,Price variation clause
+C-0958-AM1,C-0958,T-0958,2026-07-05,1376751.35,1487393.64,site_condition_change,,Site condition change
+C-0973-AM1,C-0973,T-0973,2026-04-16,1051254.35,1143636.05,additional_quantities,,Additional quantities
+C-0980-AM1,C-0980,T-0980,2025-12-15,24065698.84,26409493.78,scope_change_approved,APR/6430,Scope change approved
+C-0985-AM1,C-0985,T-0985,2025-09-19,23757756.98,26060287.88,scope_change_approved,APR/2832,Scope change approved
+C-0991-AM1,C-0991,T-0991,2024-11-27,593252.04,642042.58,site_condition_change,,Site condition change
