@@ -14,6 +14,14 @@ STATIC = os.path.join(ROOT, "app", "static")
 app = FastAPI(title="ProcureGraph", docs_url="/api/docs")
 
 
+@app.middleware("http")
+async def revalidate_static(request, call_next):
+    response = await call_next(request)
+    if not request.url.path.startswith("/api"):
+        response.headers["Cache-Control"] = "no-cache"
+    return response
+
+
 def q(sql, params=()):
     con = sqlite3.connect(DB)
     con.row_factory = sqlite3.Row
@@ -61,6 +69,7 @@ def overview():
                            ROUND(AVG(confidence), 3) mean_confidence
                     FROM detector_results GROUP BY detector ORDER BY detector""")
     top = q("""SELECT tender_id, buyer_name, department, government_name, category_label,
+                      publish_date, awarded_value, awarded_vendor_name, n_bids,
                       tier, risk_r, priority_p, case_confidence, value_at_risk, headline, case_id
                FROM tender_analysis ORDER BY priority_p DESC LIMIT 20""")
     by_dept = q("""SELECT department, COUNT(*) n,

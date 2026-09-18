@@ -69,7 +69,7 @@ async function loadOverview() {
     const tot = c.scored + c.not_applicable + c.insufficient;
     const w = (n) => (100 * n / tot).toFixed(1) + '%';
     return `<div style="margin-bottom:12px">
-      <div style="display:flex;justify-content:space-between;font-size:13px;margin-bottom:4px">
+      <div style="display:flex;flex-wrap:wrap;gap:0 12px;justify-content:space-between;font-size:13px;margin-bottom:4px">
         <span><b style="color:${DET_COLOR[c.detector]}">${c.detector}</b> ${esc(c.detector_name)}</span>
         <span class="mono muted">${c.scored} scored &middot; mean c ${c.mean_confidence}</span>
       </div>
@@ -84,10 +84,10 @@ async function loadOverview() {
 
   const maxFlag = Math.max(...o.by_department.map(d => d.flagged), 1);
   $('bydept').innerHTML = o.by_department.map(d => `
-    <div style="display:flex;align-items:center;gap:10px;margin-bottom:9px">
-      <div style="width:190px;font-size:13px" title="${esc(d.department)}">${esc(d.department)}</div>
-      <div style="flex:1">${meter(d.flagged / maxFlag, 'var(--t2)')}</div>
-      <div class="mono tiny muted" style="width:96px;text-align:right">${d.flagged} / ${d.n} tenders</div>
+    <div class="dept-row">
+      <div class="dept-name" title="${esc(d.department)}">${esc(d.department)}</div>
+      <div class="dept-meter">${meter(d.flagged / maxFlag, 'var(--t2)')}</div>
+      <div class="dept-count mono tiny muted">${d.flagged} / ${d.n} tenders</div>
     </div>`).join('');
 
   $('topqueue').innerHTML = resultTable(o.top, true);
@@ -155,7 +155,7 @@ async function runSearch() {
 }
 
 function resultTable(rows, compact) {
-  return `<table>
+  return `<table class="stack">
     <thead><tr>
       <th>Tender</th><th>What / who</th>${compact ? '' : '<th>Buying office</th>'}
       <th class="right">Value</th><th class="right">Bids</th>
@@ -164,18 +164,18 @@ function resultTable(rows, compact) {
     <tbody>${rows.map(r => `
       <tr onclick="openTender('${r.tender_id}')" tabindex="0"
           onkeydown="if(event.key==='Enter')openTender('${r.tender_id}')">
-        <td><span class="tid">${r.tender_id}</span><div class="tiny dim">${dateStr(r.publish_date)}</div></td>
-        <td><div>${esc(r.category_label)}</div>
+        <td class="c-head"><span class="tid">${r.tender_id}</span><div class="tiny dim">${dateStr(r.publish_date)}</div></td>
+        <td class="c-what"><div>${esc(r.category_label)}</div>
             <div class="tiny muted">won by ${esc(r.awarded_vendor_name)}</div></td>
-        ${compact ? '' : `<td><div class="small">${esc(r.buyer_name)}</div>
-            <div class="tiny dim">${esc(r.department)}</div></td>`}
-        <td class="right num">${inr(r.awarded_value)}</td>
-        <td class="right num">${r.n_bids || '—'}</td>
-        <td style="min-width:110px">
+        ${compact ? '' : `<td data-label="Buying office"><div class="cv"><div class="small">${esc(r.buyer_name)}</div>
+            <div class="tiny dim">${esc(r.department)}</div></div></td>`}
+        <td class="right num" data-label="Value">${inr(r.awarded_value)}</td>
+        <td class="right num" data-label="Bids">${r.n_bids || '—'}</td>
+        <td class="c-prio" data-label="Priority"><div class="prio-cell">
           <div class="num tiny" style="margin-bottom:3px">${Number(r.priority_p).toFixed(2)}</div>
           ${meter(r.priority_p, tierColor(r.tier))}
-        </td>
-        <td>${badge(r.tier)}</td>
+        </div></td>
+        <td class="c-tier">${badge(r.tier)}</td>
       </tr>`).join('')}</tbody></table>`;
 }
 
@@ -340,7 +340,7 @@ function detectorBlock(x, open) {
       <span class="dname" style="color:${DET_COLOR[x.detector]}">${x.detector} ${esc(x.detector_name)}</span>
       <span class="dscore">${Number(x.score).toFixed(2)}</span>
       <span class="dbar">${meter(x.score, DET_COLOR[x.detector])}</span>
-      <span class="tiny muted" style="width:150px;text-align:right">
+      <span class="dstat tiny muted">
         ${dead ? esc(x.status.replace('_', ' ')) : `contributes ${x.contribution_pct.toFixed(1)}%`}
       </span>
     </summary>
@@ -404,7 +404,7 @@ function contributionChart(dets) {
   if (!rows.length) return '<p class="small muted">No detector contributed to a risk score for this tender.</p>';
   const W = 420, rowH = 30, H = rows.length * rowH + 26, labelW = 132, barW = W - labelW - 46;
   const max = Math.max(...rows.map(r => r.contribution_pct), 10);
-  return `<svg viewBox="0 0 ${W} ${H}" width="100%" height="${H}" role="img"
+  return `<div class="chart-scroll"><svg viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img"
        aria-label="Detector contribution shares">
     ${rows.map((r, i) => {
     const y = i * rowH + 6, w = Math.max(2, barW * r.contribution_pct / max);
@@ -420,7 +420,7 @@ function contributionChart(dets) {
   }).join('')}
     <line class="axis" x1="${labelW}" y1="${H - 16}" x2="${labelW + barW}" y2="${H - 16}"/>
     <text class="lbl" x="${labelW}" y="${H - 3}">share of the risk score</text>
-  </svg>`;
+  </svg></div>`;
 }
 
 function bidChart(bids, estimate) {
@@ -437,7 +437,7 @@ function bidChart(bids, estimate) {
   const x = (v) => L + (R - L) * (v - lo) / (hi - lo);
 
   const ticks = [0, 0.25, 0.5, 0.75, 1].map(f => lo + f * (hi - lo));
-  return `<svg viewBox="0 0 ${W} ${H}" width="100%" height="${H}" role="img"
+  return `<div class="chart-scroll"><svg viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img"
       aria-label="Bid values in this tender">
     ${ticks.map(t => `<line class="grid-line" x1="${x(t).toFixed(1)}" y1="18" x2="${x(t).toFixed(1)}" y2="86"/>`).join('')}
     ${est ? `<line x1="${x(est).toFixed(1)}" y1="14" x2="${x(est).toFixed(1)}" y2="90"
@@ -457,24 +457,24 @@ function bidChart(bids, estimate) {
       <circle cx="58" cy="-4" r="5" fill="var(--t2)"/><text class="lbl" x="67" y="0">losing</text>
       <circle cx="112" cy="-4" r="5" fill="var(--t1)"/><text class="lbl" x="121" y="0">disqualified</text>
     </g>
-  </svg>`;
+  </svg></div>`;
 }
 
 function bidTable(bids) {
   if (!bids.length) return '';
   const win = bids.find(b => b.is_winner);
-  return `<table style="margin-top:6px;background:transparent">
+  return `<table class="stack" style="margin-top:6px;background:transparent">
     <thead><tr><th>Bidder</th><th class="right">Bid</th><th class="right">vs winner</th><th>Status</th></tr></thead>
     <tbody>${bids.map(b => `<tr onclick="event.stopPropagation()" style="cursor:default">
-      <td><div class="small">${esc(b.legal_name)}${b.is_winner ? ' <span class="badge plain tiny">won</span>' : ''}</div>
+      <td class="c-head"><div class="small">${esc(b.legal_name)}${b.is_winner ? ' <span class="badge plain tiny">won</span>' : ''}</div>
           <div class="tiny dim">inc. ${dateStr(b.incorporation_date)} &middot; capital ${inr(b.paid_up_capital)}
           ${b.msme_registered ? ' &middot; MSE' : ''}${b.startup_registered ? ' &middot; start-up' : ''}</div></td>
-      <td class="right num">${inr(b.bid_value)}</td>
-      <td class="right num tiny ${b.is_winner ? 'dim' : 'muted'}">${win && !b.is_winner
+      <td class="right num" data-label="Bid">${inr(b.bid_value)}</td>
+      <td class="right num tiny ${b.is_winner ? 'dim' : 'muted'}" data-label="vs winner">${win && !b.is_winner
       ? '+' + pct(b.bid_value / win.bid_value - 1, 2) : '—'}</td>
-      <td class="tiny">${b.status === 'disqualified'
+      <td class="tiny" data-label="Status"><div class="cv">${b.status === 'disqualified'
       ? `<span style="color:var(--t1)">disqualified</span><div class="dim">${esc(b.disqualification_reason)}</div>`
-      : '<span class="dim">valid</span>'}</td>
+      : '<span class="dim">valid</span>'}</div></td>
     </tr>`).join('')}</tbody></table>`;
 }
 
@@ -489,7 +489,7 @@ function relationshipGraph(bids, links, winnerId) {
     pos[n.id] = { x: cx + r * Math.cos(ang), y: cy + r * Math.sin(ang) * 0.72 };
   });
 
-  return `<svg viewBox="0 0 ${W} ${H}" width="100%" height="${H}" role="img"
+  return `<div class="chart-scroll"><svg viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img"
       aria-label="Relationship map for the bidders in this tender">
     ${links.map(l => {
     const a = pos[l.vendor_a], b = pos[l.vendor_b];
@@ -522,12 +522,13 @@ function relationshipGraph(bids, links, winnerId) {
         <title>${esc(n.name)}</title>
       </g>`;
   }).join('')}
-  </svg>`;
+  </svg></div>`;
 }
 
 /* ---------------- boot ---------------- */
 
 (async function init() {
+  if (matchMedia('(max-width: 1100px)').matches) $('filters').open = false;
   try {
     await loadFilters();
     await loadOverview();
